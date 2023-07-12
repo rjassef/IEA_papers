@@ -1,0 +1,56 @@
+    ABYSS. I. Targeting Strategy for the APOGEE and BOSS Young Star Survey in SDSS-V
+    Marina Kounkel et al. (17 more). ApJS (2023) 266 10; adsabs:2023ApJS..266...10K; doi:10.3847/1538-4365/acc106; arXiv:2301.07186
+    The Eighteenth Data Release of the Sloan Digital Sky Surveys: Targeting and First Spectra from SDSS-V
+    Andrés Almeida et al. (153 more). Accepted by journal; arXiv:2301.07688
+    The cosmic web of X-ray active galactic nuclei seen through the eROSITA Final Equatorial Depth Survey (eFEDS)
+    Johan Comparat et al. (19 more). A&A (2023) 673 A122; adsabs:2023A&A...673A.122C; doi:10.1051/0004-6361/202245726; arXiv:2301.01388
+    The SDSS-V Black Hole Mapper Reverberation Mapping Project: Unusual Broad-line Variability in a Luminous Quasar
+    Logan B. Fries et al. (32 more). ApJ (2023) 948 5; adsabs:2023ApJ...948....5F; doi:10.3847/1538-4357/acbfb7; arXiv:2301.10252
+    The eROSITA Final Equatorial Depth Survey (eFEDS): Complex absorption and soft excesses in hard X-ray-selected active galactic nuclei
+    S. Waddell et al. (15 more). A&A (2023); doi:10.1051/0004-6361/202245572; arXiv:2306.00961
+    A Transient "Changing-look" Active Galactic Nucleus Resolved on Month Timescales from First-year Sloan Digital Sky Survey V Data
+    Grisha Zeltyn et al. (34 more). ApJL (2022) 939 16; adsabs:2022ApJ...939L..16Z; doi:10.3847/2041-8213/ac9a47; arXiv:2210.07258
+    On-sky performance of the SDSS-V wide field corrector
+    Aidan Gray (JHU) et al. (21 more). SPIE Conf. (2022) 12184 228; adsabs:2022SPIE12184E..62G; doi:10.1117/12.2630539
+    Construction, testing, and commissioning of the SDSS-V Local Volume Mapper telescope system
+    T. M. Herbst et al. (26 more). SPIE (2022) 12182 1; adsabs:2022SPIE12182E..1QH; doi:10.1117/12.2629354
+    SDSS-V Focal Plane System: Overview of Coordinate Systems and Transforms
+    José Sánchez-Gallego et al. (11 more). SPIE Conf. (2022) 12184 286; adsabs:2022SPIE12184E..7KS; doi:10.1117/12.2630507
+    Validating the Local Volume Mapper acquisition and guiding hardware
+    Maximilian Häberle et al. (15 more). SPIE Conf. (2022) 12184 256; arXiv:2207.05090
+    SDSS-V Focal Plane System High-Precision Metrology
+    Michael Engelman et al. (7 more). Proceedings of the SPIE (2022) 12184 121847J; adsabs:2022SPIE12184E..7JE; doi:10.1117/12.2630384
+    Zeta-Payne: A Fully Automated Spectrum Analysis Algorithm for the Milky Way Mapper Program of the SDSS-V Survey
+    Ilya Straumit et al. (15 more). AJ (2022) 163 236; adsabs:2022AJ....163..236S; doi:10.3847/1538-3881/ac5f49; arXiv:2203.14538
+    A 99 minute Double-lined White Dwarf Binary from SDSS-V
+    Vedant Chandra et al. (14 more). ApJ (2021) 921 160; adsabs:2021ApJ...921..160C; doi:10.3847/1538-4357/ac2145; arXiv:2108.11968
+    Experimental evaluation of complete safe coordination of astrobots for Sloan Digital Sky Survey V
+    Matin Macktoobian et al. (6 more). ExA (2021) 51 77; adsabs:2021ExA....51...77M; doi:10.1007/s10686-020-09687-4; arXiv:2012.10656
+    The SDSS-V Local Volume Mapper telescope system
+    T. M. Herbst et al. (18 more). Proc. SPIE (2020) 11445 114450J; adsabs:2020SPIE11445E..0JH; doi:10.1117/12.2561419
+    SDSS-V Local Volume Mapper Instrument: Overview and Status
+    Nicholas P. Konidaris et al. (28 more). Proc. SPIE (2020) 11447 1144718; adsabs:2020SPIE11447E..18K; doi:10.1117/12.2557565
+    The SDSS-V Local Volume Mapper fiber cable system
+    Tobias Feger et al. (14 more). Proc. SPIE (2020) 11447 114478N ; adsabs:2020SPIE11447E..8NF; doi:10.1117/12.2562185
+    The industrialization of astronomical instrumentation: an industrial system and process engineering perspective
+    Christopher Brandon et al. (16 more). Proc. SPIE (2020) 11450 1145022; adsabs:2020SPIE11450E..22B; doi:10.1117/12.2562964
+    Multi-object spectroscopic operations with the Sloan Digital Sky Survey V
+    José R. Sánchez-Gallego et al. (10 more). Proc. SPIE (2020) 11449 114490O; adsabs:2020SPIE11449E..0OS; doi:10.1117/12.2561810
+    SDSS-V focal plane robot positioning metrology
+    C. Jurgenson et al. (10 more). Proc. SPIE (2020) 11447 114478O; doi:10.1117/12.2562492
+    Design of a Theta/Phi fiber positioner robot for the Sloan Digital Sky Survey V
+    Ricardo Araujo et al. (11 more). Proc. SPIE (2020) 11449 1144790; doi:10.1117/12.2563234
+    Test results of the SDSS-V fiber micro-positioners
+    L. Grossen et al. (7 more). Proc. SPIE (2020) 11447 114478P; doi:10.1117/12.2562545
+    SDSS-V: Pioneering Panoptic Spectroscopy
+    Juna A. Kollmeier et al. (49 more). on arXiv; adsabs:2017arXiv171103234K; arXiv:1711.03234
+    A Robotic Focal Plane System for the Sloan Digital Sky Survey V
+    Richard W. Pogge et al. (21 more). Proc. SPIE (2020) 11447 1144781; doi:10.1117/12.2561113
+    Testing fiber tapers for use in the SDSS-V focal plane system
+    Sarah Tuttle et al. (8 more). Proc. SPIE (2020) 11447 114478T; doi:10.1117/12.2562293
+    APOGEE LN2 Tank Back Pressure Regulator System
+    Liam Walters et al. (6 more). BAAS (2021) 53 1; adsabs:2021AAS...23732405W
+    Mapping Luminous Hot Stars in the Galaxy
+    E. Zari et al. (6 more). A&A (2021) 650 112; adsabs:2021A&A...650A.112Z; doi:10.1051/0004-6361/202039726; arXiv:2102.08684
+    SDSS-V Algorithms: Fast, Collision-Free Trajectory Planning for Heavily Overlapping Robotic Paths
+    Conor Sayres et al. (8 more). AJ (2021) 161 92; adsabs:2021AJ....161...92S; doi:10.3847/1538-3881/abd0f2; arXiv:2012.04721

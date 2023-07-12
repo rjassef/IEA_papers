@@ -1,0 +1,877 @@
+#From https://www.sdss.org/science/publications/#sdss4
+The demographics of Education Public Outreach (EPO) participation among professional scientists in the Sloan Digital Sky Surveys IV
+Karen L Masters and SDSS-IV COINS and EPO Groups. Accepted by journal
+The Seventeenth Data Release of the Sloan Digital Sky Surveys: Complete Release of MaNGA, MaStar and APOGEE-2 Data
+Abdurro'uf et al. (338 more). ApJS (2022) 259 35; adsabs:2022ApJS..259...35A; doi:10.3847/1538-4365/ac4414; arXiv:2112.02026
+Testing the chemical homogeneity of chemically-tagged dissolved birth clusters
+Chloe Cheng et al. (2 more). MNRAS (2021) 506 5573; adsabs:2021MNRAS.506.5573C; doi:10.1093/mnras/stab2106; arXiv:2010.09721
+Are the Milky Way and Andromeda normal? A comparison with Milky Way and Andromeda Analogs
+Nicholas Boardman et al. (12 more). MNRAS (2021) 498 4943; adsabs:2020MNRAS.498.4943B; doi:10.1093/mnras/staa2731; arXiv:2009.02576
+The Sloan Digital Sky Survey Reverberation Mapping Project: Improving Lag Detection with an Extended Multi-Year Baseline
+Yue Shen et al. (33 more). ApJL (2019) 883 14; adsabs:2019ApJ...883L..14S; doi:10.3847/2041-8213/ab3e0f
+The Sixteenth Data Release of the Sloan Digital Sky Surveys: Final release from the Extended Baryon Oscillation Spectroscopic Survey, and First Release from APOGEE-2S
+Romina Ahumada et al. (313 more). ApJS (2020) 249 3A; adsabs:2020ApJS..249....3A; doi:10.3847/1538-4365/ab929e; arXiv:1912.02905
+The Sloan Digital Sky Survey Reverberation Mapping Project: Accretion and Broad Emission Line Physics from a Hypervariable Quasar
+Jason Dexter et al. (17 more). ApJ (2019) 885 44; adsabs:2019ApJ...885...44D; doi:10.3847/1538-4357/ab4354
+The Sloan Digital Sky Survey Reverberation Mapping Project: CIV Lag Results from Four Years of Data
+C. J. Grier et al. (33 more). ApJ (2019) 887 38; adsabs:2019ApJ...887...38G; doi:10.3847/1538-4357/ab4ea5; arXiv:1904.03199
+Data-Driven Education and Public Outreach with the Sloan Digital Sky Survey
+B. Lundgren et al. (13 more). BAAA (2019) 61A 261; adsabs:2019BAAA...61..261L
+Chemodynamics of newly identified giants with a globular cluster like abundance patterns in the bulge, disc, and halo of the Milky Way
+José G. Fernández-Trincado et al. (5 more). MNRAS (2019) MNRAS 2864; adsabs:2019MNRAS.488.2864F; doi:10.1093/mnras/stz1848; arXiv:1904.05369
+The Sloan Digital Sky Survey Reverberation Mapping Project: Project: Systematic Investigations of Short-Timescale CIV Broad Absorption Line Variability
+Z. S. Hemler et al. (12 more). ApJ (2019) 872 21; adsabs:2019ApJ...872...21H; doi:10.3847/1538-4357/aaf1b; arXiv:1811.00010
+The Sloan Digital Sky Survey Reverberation Mapping Project: Accretion-Disk Sizes from Continuum Lags
+Y. Homayouni et al. (13 more). ApJ (2019) 880 126; adsabs:2019ApJ...880..126H; doi:10.3847/1538-4357/ab2638
+The Fifteenth Data Release from the Sloan Digital Sky Surveys: First Release of MaNGA Derived Quantities, Data Visualization Tools and Stellar Library
+D. S. Aguado et al. (232 more). ApJS (2019) 240 23; adsabs:2019ApJS..240...23A; doi:10.3847/1538-4365/aaf651; arXiv:1812.02759
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: Measuring the Anisotropic Baryon Acoustic Oscillations with Redshift Weights
+Fangzhou Zhu et al. (11 more). MNRAS (2018) 480 1096; adsabs:2018MNRAS.480.1096Z; doi:10.1093/mnras/sty1955; arXiv:1801.03038
+Diversity and inclusiveness in large scientific collaborations
+Sara Lucatello and Aleks Diamond-Stanic. Nature Astronomy (2017) 1 161; adsabs:2017NatAs...1E.161L; doi:10.1038/s41550-017-0161
+The Fourteenth Data Release of the Sloan Digital Sky Survey: First Spectroscopic Data from the extended Baryon Oscillation Spectroscopic Survey and from the second phase of the Apache Point Observatory Galactic Evolution Experiment
+Bela Abolfathi et al. (326 more). ApJS (2018) 235 42; adsabs:2018ApJS..235...42A; doi:10.3847/1538-4365/aa9e8a; arXiv:1707.09322
+The Sloan Digital Sky Survey Reverberation Mapping Project: Quasar Reverberation Mapping Studies
+Catherine J. Grier and the SDSS-RM Collaboration. AAS (2017) 229 414.01; adsabs:2017AAS...22941401G
+The Formation of COINS: Equity and Inclusion in SDSS
+Sarah Jane Schmidt (AIP) et al. (15 more). AAS (2017) 229 237.13; adsabs:2017AAS...22923713S
+Sloan Digital Sky Survey IV: Mapping the Milky Way, Nearby Galaxies and the Distant Universe
+Michael R. Blanton et al. (352 more). AJ (2017) 154 28; adsabs:2017AJ....154...28B; doi:10.3847/1538-3881/aa7567; arXiv:1703.00052
+The Thirteenth Data Release of the Sloan Digital Sky Survey: First Spectroscopic Data from the SDSS-IV Survey MApping Nearby Galaxies at Apache Point Observatory
+Franco D. Albareti et al. (337 more). ApJS (2017) 233 25; adsabs:2017ApJS..233...25A; doi:10.3847/1538-4365/aa8992; arXiv:1608.02013
+The SDSS-IV in 2014: A Demographic Snapshot
+Britt Lundgren et al. (10 more). PASP (2015) 127 776; adsabs:2015PASP..127..776L; doi:10.1086/682387; arXiv:1505.06199
+Stellar Metallicity Gradients in SDSS Galaxies
+Ben Roig et al. (2 more). ApJ (2015) 808 26; adsabs:2015ApJ...808...26R; doi:10.1088/0004-637X/808/1/26; arXiv:1506.05013
+Revealing galaxy intrinsic alignments across luminosity and colour using the Dark Energy Survey Year 3 and eBOSS
+Simon Samuroff et al. (3 more). Submitted to journal; arXiv:https://arxiv.org/abs/2212.11319
+Metal Lines Associated with the Lyman-alpha Forest from eBOSS Data
+Li Yang et al. (7 more). ApJ (2022) 935 121; adsabs:2022ApJ...935..121Y; doi:10.3847/1538-4357/ac7b2e; arXiv:2206.11385
+Cosmological implications of the full shape of anisotropic clustering measurements in BOSS and eBOSS
+Agne Semenaite et al. (13 more). MNRAS (2022) 512 5657; adsabs:2022MNRAS.512.5657S; doi:10.1093/mnras/stac829; arXiv:2111.03156
+The completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Cosmological implications from multi-tracer BAO analysis with galaxies and voids
+Cheng Zhao et al. (17 more). MNRAS; adsabs:2022MNRAS.tmp..389Z; doi:10.1093/mnras/stac390; arXiv:2110.03824
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: The Damped Lyman-$\alpha$ systems Catalog
+Solène Chabanier et al. (14 more). ApJS (2022) 258 18; adsabs:ApJS..258...18C; doi:10.3847/1538-4365/ac366e; arXiv:
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey quasar sample: Testing observational systematics on the Baryon Acoustic Oscillation measurement
+Grant Merz et al. (11 more). MNRAS (2021) 506 2503; adsabs:2021MNRAS.506.2503M; doi:10.1093/mnras/stab1887
+Primordial non-Gaussianity from the Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey I: Catalogue Preparation and Systematic Mitigation
+Mehdi Rezaie et al. (19 more). MNRAS (2021) 506 3439; adsabs:2021MNRAS.506.3439R; doi:10.1093/mnras/stab1730; arXiv:2106.13724
+Hi constraints from the cross-correlation of eBOSS galaxies and Green Bank Telescope intensity maps
+Laura Wolz et al. (18 more). MNRAS (2022) 510 3495; adsabs:2022MNRAS.510.3495W; doi:10.1093/mnras/stab3621
+Dark Energy Survey Year 3 Results: Clustering Redshifts – Calibration of the Weak Lensing Source Redshift Distributions with redMaGiC and BOSS/eBOSS
+Marco Gatti et al. (3 more). MNRAS (2022) 510 1223; adsabs:2022MNRAS.510.1223G; doi:10.1093/mnras/stab3311; arXiv:2012.08569
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: geometry and growth from the anisotropic void-galaxy correlation function in the luminous red galaxy sample between redshifts 0.6 and 1
+Seshadri Nadathur et al. (14 more). MNRAS (2020) 499 4140; adsabs:2020MNRAS.499.4140N; doi:10.1093/mnras/staa3074; arXiv:2008.06060
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR16 sample: a multi-tracer analysis in Fourier space for measuring the cosmic structure growth and expansion rate
+Gong-Bo Zhao et al. (18 more). MNRAS (2021) 504 33; adsabs:2021MNRAS.504...33Z; doi:10.1093/mnras/stab849
+The Completed SDSS-IV Extended Baryon Oscillation Spectroscopic Survey: Growth rate of structure measurement from cosmic voids
+Marie Aubert et al. (16 more). MNRAS (2022) 513 186; adsabs:2022MNRAS.513..186A; doi:10.1093/mnras/stac828; arXiv:2007.09013
+Reducing the Variance of Redshift Space Distortion Measurements from Mock Galaxy Catalogues with Different Lines of Sight
+Alex Smith et al. (4 more). MNRAS (2021) 500 259; adsabs:2021MNRAS.500..259S; doi:10.1093/mnras/staa3244; arXiv:2007.11417
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Cosmological Implications from two Decades of Galaxy Surveys at the Apache Point observatory
+Santiago Avila et al. (79 more). PhysRevD (2021) 103 083533; adsabs:2021PhRvD.103h3533A; doi:10.1103/PhysRevD.103.083533; arXiv:2007.08991
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Growth rate of structure measurement from anisotropic clustering analysis in configuration space between redshift 0.6 and 1.1 for the the Emission Line Galaxy sample
+Amelie Tamone et al. (27 more). MNRAS (2020) 499 5527; adsabs:2020MNRAS.499.5527T; doi:10.1093/mnras/staa3050; arXiv:2007.09009
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: exploring the Halo Occupation Distribution model of Emission Line Galaxies
+Santiago Avila et al. (20 more). MNRAS (2020) 499 5486; adsabs:2020MNRAS.499.5486A; doi:10.1093/mnras/staa2951; arXiv:2007.09012
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR16 luminous red galaxy and emission line galaxy samples: cosmic distance and growth measurements using multiple tracers in configuration space
+Yuting Wang et al. (27 more). MNRAS (2020) 498 3470; adsabs:2020MNRAS.498.3470W; doi:10.1093/mnras/staa2593; arXiv:2007.09010
+Testing General Relativity on cosmological scales at redshift z ~ 1.5 with quasar and CMB lensing
+Yucheng Zhang et al. (10 more). MNRAS (2021) 501 1013; adsabs:2021MNRAS.501.1013Z; doi:10.1093/mnras/staa3672; arXiv:2007.12607
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: one thousand multi-tracer mock catalogues with redshift evolution and systematics for galaxies and quasars of the final data release
+Cheng Zhao et al. (20 more). MNRAS (2021) 503 1149; adsabs:2021MNRAS.503.1149Z; doi:10.1093/mnras/stab510; arXiv:2007.08997
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: measurement of the BAO and growth rate of structure of the luminous red galaxy sample from the anisotropic correlation function between redshifts 0.6 and 1
+Julian E. Bautista et al. (31 more). MNRAS (2021) 501 5616; adsabs:2021MNRAS.501.5616D; doi:10.1093/mnras/staa3891; arXiv:2007.09008
+The Completed SDSS-IV Extended Baryon Oscillation Spectroscopic Survey: GLAM-QPM mock galaxy catalogs for the Emission Line Galaxy Sample
+Sicheng Lin et al. (13 more). MNRAS (2020) 498 5251; adsabs:2020MNRAS.498.5251L; doi:10.1093/mnras/staa2571; arXiv:2007.08996
+The Completed SDSS-IV Extended Baryon Oscillation Spectroscopic Survey: N-body Mock Challenge for the Quasar Sample
+Alex Smith et al. (19 more). MNRAS (2020) 499 269; adsabs:2020MNRAS.499..269S; doi:10.1093/mnras/staa2825; arXiv:2007.09003
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey Quasar Sample: BAO and RSD measurements from anisotropic clustering analysis in configuration space between redshift 0.8 and 2.2
+Jiamin Hou et al. (23 more). MNRAS (2020) 499 210; adsabs:2020MNRAS.499..210N; doi:10.1093/mnras/staa2780
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey luminous red galaxy sample: measurement of the BAO and growth rate of structure from the anisotropic power spectrum between redshift 0.6 and 1.0
+Hector Gil-Marin et al. (39 more). MNRAS (2020) 498 2492; adsabs:2020MNRAS.498.2492G; doi:10.1093/mnras/staa2455; arXiv:2007.08994
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey emission line galaxy sample: measurement of the BAO and growth rate of structure from the anisotropic power spectrum between redshift 0.6 and 1.1
+Arnaud de Mattia et al. (26 more). MNRAS (2021) 501 5616; adsabs:2021MNRAS.501.5616D; doi:10.1093/mnras/staa3891; arXiv:2007.09008
+The completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Large-scale Structure Catalogues and Measurement of the isotropic BAO between redshift 0.6 and 1.1 for the Emission Line Galaxy Sample
+Anand Raichoor et al. (38 more). MNRAS (2021) 500 3254; adsabs:2021MNRAS.500.3254R; doi:10.1093/mnras/staa3336; arXiv:2007.09007
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Pairwise-Inverse-Probability Correction for Fiber Collisions in Clustering Measurements
+Faizan G. Mohammad et al. (8 more). AJ (2016) 151 44; adsabs:2016AJ....151...44D; doi:10.1093/mnras/staa1905; arXiv:2004.04263
+Baryon Acoustic Oscillations in the projected cross-correlation function between the eBOSS DR16 quasars and photometric galaxies from the DESI Legacy Imaging Surveys
+Pauline Zarrouk et al. (11 more). MNRAS (2021) 503 2562; adsabs:2021MNRAS.503.2562Z; doi:10.1093/mnras/stab298; arXiv:2009.02308
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: A Catalogue of Strong Galaxy-Galaxy Lens Candidates
+Michael S. Talbot et al. (4 more). MNRAS (2021) 502 4617; adsabs:2021MNRAS.502.4617T; doi:10.1093/mnras/stab267; arXiv:2007.09006
+Large-scale Structure Catalogs for Cosmological Analysis of the completed extended Baryon Oscillation Spectroscopic Survey
+Ashley J. Ross et al. (46 more). MNRAS (2020) 498 2354; adsabs:2020MNRAS.498.2354R; doi:10.1093/mnras/staa2416; arXiv:2007.09000
+A tomographic map of the large-scale matter distribution using the eBOSS - Stripe 82 Lya forest
+C. Ravoux et al. (15 more). JCAP (2020) 7 010; adsabs:2020JCAP...07..010R; doi:10.1088/1475-7516/2020/07/010; arXiv:2004.01448
+Removing Imaging Systematics from the eBOSS ELG Sample with Obiwan
+Hui Kong et al. (11 more). MNRAS (2020); adsabs:2020MNRAS.499.3943K; doi:10.1093/mnras/staa2742; arXiv:2007.08992
+The Completed SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Baryon acoustic oscillations with Lyman-$\alpha$ forests
+Hélion du Mas des Bourboux et al. (30 more). ApJ (2020) 901 153; adsabs:2020ApJ...901..153D; doi:10.3847/1538-4357/abb085; arXiv:2007.08995
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 LRG sample: structure growth rate measurement from the anisotropic LRG correlation function in the redshift range 0.6 < z < 1.0
+M. Icaza-Lizaola et al. (8 more). MNRAS (2020) 492 4189; adsabs:2020MNRAS.492.4189I; doi:10.1093/mnras/stz3602
+The Mass-Metallicity Relation at z~0.8: Redshift Evolution and Parameter Dependency
+Chi Huang et al. (13 more). ApJ (2019) 886 31; adsabs:2019ApJ...886...31H; doi:10.3847/1538-4357/ab4902
+Constraints on the growth of structure around cosmic voids in eBOSS DR14
+Adam Hawken et al. (6 more). JCAP (2020) 6 12; adsabs:2020JCAP...06..012H; doi:10.1088/1475-7516/2020/06/012; arXiv:1909.04394
+The extended Baryon Oscillation Spectroscopic Survey: measuring BAO at $z=0.59$ in the cross-correlation between the MgII flux transmission field and quasars and galaxies
+Hélion du Mas des Bourboux et al. (8 more). ApJ (2019) 878 47; adsabs:2019ApJ...878...47D; doi:10.3847/1538-4357/ab1d49; arXiv:1901.01950
+Baryon acoustic oscillations at z = 2.34 from the correlations of Lyman-alpha and Ly-beta absorption in eBOSS DR14
+Victoria de Sainte Agathe et al. (9 more). A&A (2019) 629 85; adsabs:2019A&A...629A..85D; doi:10.1051/0004-6361/201935638
+Baryon acoustic oscillations from the cross-correlation of Lyman-alpha absorption and quasars in eBOSS DR14
+Michael Blomqvist et al. (7 more). A&A (2019) 629 86; adsabs:2019A&A...629A..86B; doi:10.1051/0004-6361/201935641
+One-dimensional power spectrum from 100k SDSS Lyα forest
+Solène Chabanier et al. (12 more). JCAP (2019) 7 17; adsabs:2019JCAP...07..017C; doi:10.1088/1475-7516/2019/07/017
+Redshift-weighted constraints on primordial non-Gaussianity from the clustering of the eBOSS DR14 quasars in Fourier space
+Emanuele Castorina et al. (15 more). JCAP (2019) 9 10; adsabs:2019JCAP...09..010C; doi:10.1088/1475-7516/2019/09/010
+The Sloan Digital Sky Survey Quasar Catalog: Sixteenth Data Release
+Brad W. Lyke et al. (36 more). ApJS (2020) 250 8; adsabs:2020arXiv200709001L; doi:10.3847/1538-4365/aba623; arXiv:2007.09001
+Mass Functions, Luminosity Functions, and Completeness Measurements from Clustering Redshifts
+Dominic J. Bates et al. (5 more). MNRAS (2019) 486 3059; adsabs:2019MNRAS.486.3059B; doi:10.1093/mnras/stz997; arXiv:1810.01767
+Evolution of the Star-Forming Galaxies from $z=0.7$ to 1.2 with eBOSS Emission Line Galaxies
+Hong Guo et al. (9 more). ApJ (2019) 871 147; adsabs:2019ApJ...871..147G; doi:10.3847/1538-4357/aaf9ad; arXiv:1810.05318
+THE SPECTROSCOPIC SIGNATURE OF VARIABILITY IN HIGH REDSHIFT QUASARS
+Jamie C. Dyer et al. (4 more). ApJ (2019) 880 78; adsabs:2019ApJ...880...78D; doi:10.3847/1538-4357/ab288c; arXiv:1810.11142
+The circumgalactic medium of eBOSS emission line galaxies: signatures of galactic outflows in gas distribution and kinematics
+Ting-Wen Lan and Houjun Mo. ApJ (2018) 866 36; adsabs:2018ApJ...866...36L; doi:10.3847/1538-4357/aadc08; arXiv:1806.05786
+The triply-ionized carbon forest from eBOSS: cosmological correlations with quasars in SDSS-IV DR14
+Michael Blomqvist et al. (4 more). JCAP (2018) 5 29; adsabs:2018JCAP...05..029B; doi:10.1088/1475-7516/2018/05/029; arXiv:1801.01852
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: measuring the evolution of the growth rate using redshift space distortions between redshift 0.8 and 2.2
+Rossana Ruggeri et al. (18 more). MNRAS (2019) 483 3878; adsabs:2019MNRAS.483.3878R; doi:10.1093/mnras/sty3395; arXiv:1801.02891
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: measurement of the growth rate of structure from the anisotropic correlation function between redshift 0.8 and 2.2
+Pauline Zarrouk et al. (37 more). MNRAS (2018) 477 1639; adsabs:2018MNRAS.477.1639Z; doi:10.1093/mnras/sty506; arXiv:1801.03062
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: anisotropic clustering analysis in configuration-space
+Jiamin Hou et al. (9 more). MNRAS (2018) 480 2521; adsabs:2018MNRAS.480.2521H; doi:10.1093/mnras/sty1984; arXiv:1801.02656
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: growth rate measurement from the anisotropic quasar power spectrum in the redshift range 0.8 < z < 2.2
+Hector Gil-Marin et al. (23 more). MNRAS (2018) 477 1604; adsabs:2018MNRAS.477.1604G; doi:10.1093/mnras/sty453; arXiv:1801.02689
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: a tomographic measurement of the structure growth and expansion rate with optimal redshift weights
+Gong-Bo Zhao et al. (24 more). MNRAS (2019) 482 3497; adsabs:2019MNRAS.482.3497Z; doi:10.1093/mnras/sty2845; arXiv:1801.03043
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: Anisotropic Baryon Acoustic Oscillations measurements in Fourier-space with optimal redshift weights
+Dandan Wang et al. (13 more). MNRAS (2018) 477 1528; adsabs:2018MNRAS.477.1528W; doi:10.1093/mnras/sty654; arXiv:1801.03077
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 Luminous Red Galaxy Sample: Baryon Acoustic Oscillations at redshift of 0.72.
+Julian E. Bautista et al. (13 more). MNRAS (2018) 863 110; adsabs:2018ApJ...863..110B; doi:10.3847/1538-4357/aacea5; arXiv:1712.08064
+Stellar population properties for 2 million galaxies from SDSS DR14 and DEEP2 DR4 from full spectral fitting
+Johan Comparat et al. (15 more). Submitted to journal; arXiv:1711.06575
+The Sloan Digital Sky Survey Quasar Catalog: Fourteenth Data Release
+Isabelle Pâris et al. (33 more). A&A (2018) 613 A51; adsabs:2018A&A...613A..51P; doi:10.1051/0004-6361/201732445; arXiv:1712.05029
+The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: First measurement of Baryon Acoustic Oscillations between redshift 0.8 and 2.2
+Metin Ata et al. (46 more). MNRAS (2018) 473 4773; adsabs:2018MNRAS.473.4773A; doi:10.1093/mnras/stx2630; arXiv:1705.06373
+The Sloan Digital Sky Survey Reverberation Mapping Project: H-alpha and H-beta Reverberation Measurements from First-year Spectroscopy and Photometry
+C. J. Grier et al. (18 more). ApJ (2017) 851 21; adsabs:2017ApJ...851...21G; doi:10.3847/1538-4357/aa98dc; arXiv:1711.03114
+Clustering of quasars in SDSS-IV eBOSS : study of potential systematics and bias determination.
+Pierre Laurent et al. (21 more). JCAP (2017) 7 17; adsabs:2017JCAP...07..017L; doi:10.1088/1475-7516/2017/07/017; arXiv:1705.04718
+The SDSS-IV Extended Baryon Oscillation Spectroscopic Survey: final Emission Line Galaxy Target Selection
+A. Raichoor et al. (23 more). MNRAS (2017) 471 3955; adsabs:2017MNRAS.471.3955R; doi:10.1093/mnras/stx1790; arXiv:1704.00338
+The SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Modelling the two-point quasar clustering with the BigMultiDark simulation
+Sergio Rodriguez Torres et al. (12 more). MNRAS (2017) 468 728; adsabs:2017MNRAS.468..728R; doi:10.1093/mnras/stx454; arXiv:1612.06918
+Spectral Evolution in High Redshift Quasars from the Final BOSS Sample
+Trey W. Jensen et al. (19 more). ApJ (2016) 833 199; adsabs:2016ApJ...833..199J; doi:10.3847/1538-4357/833/2/199; arXiv:1611.08884
+Redshift Measurement and Spectral Classification for eBOSS Galaxies with the redmonster Software
+Timothy A. Hutchinson et al. (15 more). AJ (2016) 152 205; adsabs:2016AJ....152..205H; doi:10.3847/0004-6256/152/6/205; arXiv:1607.02432
+The SDSS-IV eBOSS: Emission Line Galaxy Catalogs at z = 0.8 and study of systematic errors in the angular clustering
+Timothée Delubac et al. (16 more). MNRAS (2017) 465 1831; adsabs:2017MNRAS.465.1831D; doi:10.1093/mnras/stw2741; arXiv:1611.06934
+The extended Baryon Oscillation Spectroscopic Survey (eBOSS): a cosmological forecast
+Gong-Bo Zhao et al. (30 more). MNRAS (2016) 457 2377; adsabs:2016MNRAS.457.2377Z; doi:10.1093/mnras/stw135; arXiv:1510.08216
+Near-ultraviolet Spectroscopy of Star-forming Galaxies from eBOSS: Signatures of Ubiquitous Galactic-scale Outflows
+Guangtun Ben Zhu et al. (9 more). ApJ (2015) 815 48; adsabs:2015ApJ...815...48B; doi:10.1088/0004-637X/815/1/48; arXiv:1507.07979
+The Extended Baryon Oscillation Spectroscopic Survey: Variability Selection and Quasar Luminosity Function
+Nathalie Palanque-Delabrouille et al. (9 more). A&A (2016) 587 41; adsabs:2016A&A...587A..41P; doi:10.1051/0004-6361/201527392; arXiv:1509.05607
+The SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Quasar Target Selection
+Adam D. Myers et al. (36 more). ApJS (2015) 221 27; adsabs:2015ApJS..221...27M; doi:10.1088/0067-0049/221/2/27; arXiv:1508.04472
+The SDSS-IV extended Baryon Oscillation Spectroscopic Survey: Overview and Early Data
+Kyle Dawson et al. (3 more). AJ (2016) 151 44; adsabs:2016AJ....151...44D; doi:10.3847/0004-6256/151/2/44; arXiv:1508.04473
+The SDSS-IV extended Baryonic Oscillation Spectroscopic Survey: Luminous Red Galaxy Target Selection
+Abhishek Prakash et al. (26 more). ApJS (2016) 224 34; adsabs:2016ApJS..224...34P; doi:10.3847/0067-0049/224/2/34; arXiv:1508.04478
+The SDSS-IV eBOSS emission-line galaxy pilot survey
+Johan Comparat et al. (32 more). A&A (2016) 592 121; adsabs:2016A&A...592A.121C; doi:10.1051/0004-6361/201527377; arXiv:1509.05045
+Photometric redshifts and clustering of emission line galaxies selected jointly by DES and eBOSS
+Stephanie Jouvel et al. (11 more). MNRAS (2017) 469 2771; adsabs:2017MNRAS.469.2771J; doi:10.1093/mnras/stx163; arXiv:1509.07121
+The SDSS-IV extended Baryonic Oscillation Spectroscopic Survey: selecting Emission Line Galaxies using the Fisher Discriminant
+Anand Raichoor et al. (28 more). A&A (2016) 585 50; adsabs:2016A%26A...585A..50R; doi:10.1051/0004-6361/201526486; arXiv:1505.01797
+Photometry of 400 million SDSS sources in the WISE imaging
+Dustin Lang et al. (2 more). AJ (2016) 151 36; adsabs:2016AJ....151...36L; doi:10.3847/0004-6256/151/2/36; arXiv:1410.7397
+Unveiling the time evolution of chemical abundances across the Milky Way disk with APOGEE
+Bridget Ratcliffe et al. (14 more). Accepted by journal
+StarHorse results for spectroscopic surveys + Gaia DR3: Ages for MSTO and subgiants and chemical substructures in the solar vicinity
+A. B. A. Queiroz et al. (19 more). Accepted by journal
+Galactic ArchaeoLogIcaL ExcavatiOns (GALILEO) I. An updated census of APOGEE N-rich Giants Across the Milky Way
+José G. Fernández-Trincado et al. (11 more). A&A (2022) 663 126; adsabs:2022A&A...663A.126F; doi:10.1051/0004-6361/202243195; arXiv:2204.09702
+Stellar Properties for a Comprehensive Collection of Star Forming Regions in the SDSS APOGEE-2 Survey
+Carlos G. Román-Zúñniga et al. (27 more). AJ (2023) 165 51; adsabs:2023AJ....165...51R; doi:10.3847/1538-3881/aca3a4; arXiv:2211.09217
+The Open Cluster Chemical Abundances and Mapping Survey: VII. APOGEE DR17 [C/N]-Age Calibration
+Taylor Spoo et al. (12 more). AJ (2022) 163 229; adsabs:2022AJ....163..229S; doi:10.3847/1538-3881/ac5d53; arXiv:2203.05463
+The Open Cluster Chemical Abundances and Mapping Survey: VI. Galactic Chemical Gradient Analysis from APOGEE DR17
+Natalie Myers et al. (4 more). AJ (2022) 164 85; adsabs:2022AJ....164...85M; doi:10.3847/1538-3881/ac7ce5; arXiv:2206.13650
+APOGEE-2S view of the globular cluster Patchick 125 (Gran 3). New Metallicity and Elemental Abundances from High-resolution Spectroscopy
+José G. Fernández-Trincado et al. (3 more). A&A (2022) 657 84; adsabs:2022A&A...657A..84F; doi:10.1051/0004-6361/202142222; arXiv:2111.04151
+Is Terzan 5 the remnant of a building block of the Galactic bulge? Evidence from APOGEE
+Dominic J. Taylor et al. (18 more). MNRAS (2022) 513 3429; adsabs:2022MNRAS.513.3429T; doi:10.1093/mnras/stac968; arXiv:2204.01753
+APOGEE Net: An expanded spectral model of both low mass and high mass stars
+Dani Sprague et al. (19 more). AJ (2022) 163 152; adsabs:2022AJ....163..152S; doi:10.3847/1538-3881/ac4de7; arXiv:2201.03661
+Detailed Chemical Abundances for a Benchmark Sample of M Dwarfs from the APOGEE Survey
+Diogo Souto et al. (16 more). ApJ (2022) 927 123; adsabs:2022ApJ...927..123S; doi:10.3847/1538-4357/ac4891
+APOGEE-2S Discovery of Light- and Heavy-Element Abundance Correlations in the Bulge Globular Cluster NGC 6380
+José G. Fernández-Trincado et al. (13 more). ApJL (2021) 918 L9; adsabs:2021ApJ...918L...9F; doi:10.3847/2041-8213/ac1c7e; arXiv:2109.02661
+Chemical Cartography with APOGEE: Mapping Disk Populations with a Two-Process Model and Residual Abundances
+David H. Weinberg et al. (9 more). ApJS (2022) 260 32; adsabs:2022ApJS..260...32W; doi:10.3847/1538-4365/ac6028; arXiv:2108.08860
+APOGEE-2 Discovery of a Large Population of Relatively High-Metallicity Globular Cluster Debris
+José G. Fernández-Trincado et al. (11 more). ApJL (2021) 918 L37; adsabs:2021arXiv210902669F; doi:10.3847/2041-8213/ac225b; arXiv:2109.02669
+CAPOS: The bulge Cluster APOgee Survey III. Spectroscopic Tomography of Tonantzintla 2
+José G. Fernández-Trincado et al. (12 more). A&A (2022) 658 116; adsabs:2022A&A...658A.116F; doi:10.1051/0004-6361/202141742; arXiv:2110.10700
+APOGEE Chemical Abundance Patterns of the Massive Milky Way Satellites
+Sten Hasselquist et al. (35 more). ApJ (2021) 923 172; adsabs:2021ApJ...923..172H; doi:10.3847/1538-4357/ac25f9; arXiv:2109.05130
+Double-lined spectroscopic binaries in the APOGEE DR16 and DR17 data
+Marina Kounkel et al. (22 more). AJ (2021) 162 184; adsabs:2021AJ....162..184K; doi:10.3847/1538-3881/ac1798; arXiv:2107.10860
+CAPOS: the bulge Cluster APOgee Survey II. The Intriguing "Sequoia" Globular Cluster FSR 1758
+Maria Romero-Colmenares et al. (17 more). A&A (2021) 652 A158; adsabs:2021A%26A...652A.158R; doi:10.1051/0004-6361/202141294; arXiv:2106.00027
+Dynamical orbital classification of selected N-rich stars with Gaia Data Release 2 astrometry
+José G Fernández-Trincado et al. (6 more). MNRAS (2020) 495 4113; adsabs:2020MNRAS.495.4113F; doi:10.1093/mnras/staa1386; arXiv:1904.05370
+New families in our Solar neighborhood
+Farnik Nikakhtar et al. (10 more). ApJ (2021) 921 106; adsabs:2021ApJ...921..106N; doi:10.3847/1538-4357/ac1a10; arXiv:2104.08394
+Stellar Rotation of T Tauri Stars in the Orion Star-Foming Complex
+Javier Serna et al. (15 more). ApJ (2021) 923; doi:10.3847/1538-4357/ac300a; arXiv:2112.02026
+Close Companions in Stellar Wide Binaries: Discovery and Characterization with APOGEE and Gaia DR2
+Hannah M. Lewis et al. (7 more). MNRAS (2022) 509 3355; adsabs:2022MNRAS.509.3355L; doi:10.1093/mnras/stab2349
+Symbiotic Stars in the APOGEE Survey: The Case of LIN 358 and SMC N73 (LIN 445a)
+Jasmin E. Washington et al. (9 more). ApJ (2021) 918 19; adsabs:2021ApJ...918...19W; doi:10.3847/1538-4357/ac09ec
+Chemodynamically Characterizing the Jhelum Stellar Stream with APOGEE-2
+Allyson A. Sheffield et al. (16 more). ApJ (2021) 913; adsabs:2021ApJ...913...39S; doi:10.3847/1538-4357/abee93; arXiv:2103.07488
+VVV CL001: Likely the Most Metal-poor Surviving Globular Cluster in the Inner Galaxy
+Jose G. Fernandez-Trincado et al. (12 more). ApJL (2021) 908 L42; adsabs:2021ApJ...908L..42F; doi:10.3847/2041-8213/abdf47; arXiv:2102.01088
+APOGEE spectroscopic evidence for chemical anomalies in dwarf galaxies: The case of M~54 and Sagittarius
+Jose G. Fernandez-Trincado et al. (9 more). A&A (2021) 648 A70; adsabs:2021A&A...648A..70F; doi:10.1051/0004-6361/202140306; arXiv:2102.07785
+Chemical Torus Imaging: Using element abundances to map orbits and mass in the Milky Way
+Adrian M. Price-Whelan et al. (4 more). ApJ (2021) 910 17; adsabs:2021ApJ...910...17P; doi:10.3847/1538-4357/abe1b7; arXiv:2012.00015
+CAPOS: The bulge Cluster APOgee Survey I. Overview and initial ASPCAP results
+Doug Geisler et al. (41 more). A&A (2021) 652 A157; adsabs:2021A&A...652A.157G; doi:10.1051/0004-6361/202140436; arXiv: 2106.00024
+Final Targeting Strategy for the SDSS-IV APOGEE-2N Survey
+Rachael L. Beaton et al. (52 more). AJ (2021) 162 302; adsabs:2021AJ....162..302B; doi:10.3847/1538-3881/ac260c; arXiv:2108.11907
+Final Targeting Strategy for the SDSS-IV APOGEE-2S Survey
+Felipe A. Santana et al. (37 more). AJ (2021) 162 303; adsabs:2021AJ....162..303S; doi:10.3847/1538-3881/ac2cbc; arXiv:2108.11908
+Aluminium-enriched metal-poor stars buried in the inner Galaxy
+Jose G. Fernandez-Trincado et al. (7 more). A&AL (2020) 643 L4; adsabs:2020A&A...643L...4F; doi:10.1051/0004-6361/202039207; arXiv:2010.01135
+The enigmatic globular cluster UKS 1 obscured by the bulge: H-band discovery of nitrogen-enhanced stars
+José G. Fernández-Trincado et al. (16 more). A&A (2020) 643 A145; adsabs:2020A&A...643A.145F; doi:10.1051/0004-6361/202039328; arXiv:2010.00020
+Analysis of Previously Classified White Dwarf-Main Sequence Binaries Using Data from the APOGEE Survey
+Kyle A. Corcoran et al. (13 more). AJ (2021) 161 143; adsabs:2021AJ....161..143C; doi:10.3847/1538-3881/abd62e; arXiv:2012.12997
+The Similarity of Abundance Ratio Trends and Nucleosynthetic Patterns in the Milky Way Disk and Bulge
+Emily Griffith et al. (11 more). ApJ (2021) 909 77; adsabs:2021ApJ...909...77G; doi:10.3847/1538-4357/abd6be; arXiv:2009.05063
+Phosphorus-rich stars with unusual abundances are challenging theoretical predictions
+T. Masseron et al. (6 more). Nature Communications (2020) 11 3759; adsabs:2020NatCo..11.3759M; doi:10.1038/s41467-020-17649-9; arXiv:2008.01633
+Testing the Limits of Precise Subgiant Characterization with APOGEE and Gaia: Opening a Window to Unprecedented Astrophysical Studies
+Diego Godoy-Rivera et al. (3 more). ApJ (2021) 915 19; adsabs:2021ApJ...915...19G; doi:10.3847/1538-4357/abf8ba; arXiv:2104.07679
+Jurassic: A Chemically Anomalous Structure in the Galactic Halo
+Jose G. Fernandez-Trincado et al. (2 more). A&A (2020) 644 A83; adsabs:2020A&A...644A..83F; doi:10.1051/0004-6361/202039434; arXiv:2010.10524
+An enquiry on the origin of N-rich stars in the inner Galaxy based on APOGEE chemical compositions
+Shobhit Kisku et al. (5 more). MNRAS (2021) 504 1657; adsabs:2021MNRAS.504.1657K; doi:10.1093/mnras/staa2780; arXiv:2007.08999
+Discovery of a Large Population of Nitrogen-enhanced Stars in the Magellanic Clouds
+Jose G. Fernandez-Trincado et al. (9 more). ApJL (2020) 903 L17; adsabs:2020ApJ...903L..17F; doi:10.3847/2041-8213/abc01d; arXiv:2010.00024
+The Milky Way’s bar and bulge revealed by Gaia DR2 and APOGEE DR16
+A. B. A. Queiroz et al. (25 more). A&A (2021) 656 27; adsabs:2020arXiv200712915Q; doi:10.1051/0004-6361/202039030; arXiv:2007.12915
+How many components? Quantifying the complexity of the metallicity distribution in the Mily Way bulge with APOGEE
+Alvaro Rojas-Arriagada et al. (7 more). MNRAS (2020) 499 1037; adsabs:2020MNRAS.499.1037R; doi:10.1093/mnras/staa2807; arXiv:2007.13967
+The Close Binary Fraction as a Function of Stellar Parameters in APOGEE: A Strong Anti-Correlation With $\alpha$ Abundances
+Christine Mazzola et al. (22 more). MNRAS (2020) 499 1607; adsabs:2020MNRAS.tmp.2721M; doi:10.1093/mnras/staa2859; arXiv:2007.09059
+Exploring the Galactic Warp Through Asymmetries in the Kinematics of the Galactic Disk
+Xinlun Cheng et al. (12 more). ApJ (2020) 905 49; adsabs:2020ApJ...905...49C; doi:10.3847/1538-4357/abc3c2; arXiv:2010.10398
+The APOGEE Library of Infrared SSP Templates (A-LIST): High-Resolution Simple Stellar Population Spectral Models in the H-Band
+Aishwarya Ashok et al. (11 more). AJ (2021) 161 4 167; doi:10.3847/1538-3881/abd7f1; arXiv:2012.15773
+The chemistry of the Milky Way's bar and off-bar disk: evidence for inhomogeneous star formation history within the bulge
+Jianhui Lian et al. (4 more). MNRAS (2021) 500 282; adsabs:2021MNRAS.500..282L; doi:10.1093/mnras/staa3256; arXiv:2008.03320
+An Intermediate Age Alpha-Rich Galactic Population in K2
+Jack Warfield et al. (6 more). AJ (2021) 161 100; adsabs:2021AJ....161..100W; doi:10.3847/1538-3881/abd39d; arXiv:2102.03377
+The contribution of N-rich stars to the Galactic stellar halo using APOGEE red giants
+Danny Horta Darrington et al. (15 more). MNRAS (2021) 500 5462; adsabs:2021MNRAS.500.5462H; doi:10.1093/mnras/staa3598; arXiv:2008.01097
+APOGEE discovery of a chemically atypical star disrupted from NGC 6723 and captured by the Milky Way bulge
+Jose G. Fernandez-Trincado et al. (19 more). A&A (2021) 647 A64; adsabs:2021A&A...647A..64F; doi:10.1051/0004-6361/202040255; arXiv:2102.01706
+Geometry of the Draco C1 Symbiotic Binary
+Hannah Lewis et al. (15 more). ApJL (2020) 900 L43; adsabs:2020ApJ...900L..43L; doi:10.3847/2041-8213/abb248; arXiv:2008.05962
+Open Cluster Chemical Homogeneity Throughout the Milky Way
+Vijith Jacob Poovelil et al. (11 more). ApJ (2020) 903 55; adsabs:2020ApJ...903...55P; doi:10.3847/1538-4357/abb93e; arXiv:2009.06777
+The Milky Way’s bulge star formation history as constrained from its chemical abundance distribution
+Jianhui Lian et al. (4 more). MNRAS (2020) 497 3557; adsabs:2020MNRAS.497.3557L; doi:10.1093/mnras/staa2205; arXiv:2007.12179
+The age-chemical abundance structure of the Galactic disc II: α-dichotomy and thick disc formation
+Jianhui Lian et al. (7 more). MNRAS (2020) 497 2371; adsabs:2020MNRAS.497.2371L; doi:10.1093/mnras/staa2078; arXiv:2007.03687
+Exploring the Stellar Age Distribution of the Milky Way Bulge using APOGEE
+Sten Hasselquist et al. (11 more). ApJ (2020) 901 109; adsabs:2020ApJ...901..109H; doi:10.3847/1538-4357/abaeee; arXiv:2008.03603
+Strong chemical tagging with APOGEE: 21 candidate star clusters that have dissolved across the Milky Way disc
+Natalie Price-Jones et al. (2 more). MNRAS (2020) 496 5101; adsabs:2020MNRAS.496.5101P; doi:10.1093/mnras/staa1905; arXiv:2004.04263
+APOGEE Data Release 16: Seven Years of Data Including First Results from APOGEE-South
+Henrik Jönsson et al. (16 more). AJ (2020) 160 120; adsabs:2020AJ....160..120J; doi:10.3847/1538-3881/aba592; arXiv:2007.05537
+Binary companions to APOGEE DR16 stars: 20,000 binary-star systems across the color--magnitude diagram
+Adrian M. Price-Whelan et al. (19 more). ApJ (2020) 895; adsabs:2020ApJ...895....2P; doi:10.3847/1538-4357/ab8acc; arXiv:2002.00014
+A tale of one cluster: APOGEE high-resolution spectral analysis of NGC 6544
+F. Gran et al. (15 more). MNRAS (2021) 504 3494; adsabs:2021MNRAS.504.3494G; doi:10.1093/mnras/stab1051; arXiv:2104.05865
+From the bulge to the outer disc: StarHorse stellar parameters, distances, and extinctions for stars in APOGEE DR16 and other spectroscopic surveys
+A. B. A. Queiroz et al. (26 more). A&A (2020) 638 31pp.; adsabs:2020A%26A...638A..76Q; doi:10.1051/0004-6361/201937364; arXiv:1912.09778
+The Open Cluster Chemical Analysis and Mapping Survey: IV. Abundances for 126 Open Clusters using SDSS/APOGEE DR16
+John Donor et al. (24 more). AJ (2020) 159 13; adsabs:2020AJ....159..199D; doi:10.3847/1538-3881/ab77bc; arXiv:2002.08980
+APOGEE Net: Improving the derived spectral parameters for young stars through deep learning
+Richard Olney et al. (7 more). AJ (2020) 159 182; adsabs:2020AJ....159..182O; doi:10.3847/1538-3881/ab7a97; arXiv:2002.08390
+NLTE for APOGEE: Simultaneous multi-element NLTE radiative transfer
+Y. Osorio et al. (4 more). A&A (2020) 637 80; adsabs:2020A%26A...637A..80O; doi:10.1051/0004-6361/201937054; arXiv:2003.13353
+Metallicity and Alpha-element Abundance Gradients Along the Sagittarius Stream as Seen by APOGEE
+Christian R. Hayes et al. (27 more). ApJ (2020) 889 63; adsabs:2020ApJ...889...63H; doi:10.3847/1538-4357/ab62ad
+HOMOGENEOUS ANALYSIS OF GLOBULAR CLUSTERS FROM THE APOGEE SURVEY WITH THE BACCHUS CODE. II. THE SOUTHERN CLUSTERS AND OVERVIEW
+Szabolcs Meszaros et al. (24 more). MNRAS (2020) 492 1641; adsabs:2020MNRAS.492.1641M; doi:10.1093/mnras/stz3496
+Spatial variations in the Milky Way disc metallicity-age relation
+Diane Feuillet et al. (7 more). MNRAS (2019) 489 1742; adsabs:2019MNRAS.489.1742F; doi:10.1093/mnras/stz2221; arXiv:1908.02772
+Life in the fast lane: a direct view of the formation and chemo-dynamical evolution of the Milky Way's bar
+Jo Bovy et al. (3 more). MNRAS (2019) 490 4740; adsabs:2019MNRAS.490.4740B; doi:10.1093/mnras/stz2891
+The K2 Galactic Caps Project - Going Beyond the Kepler Field and Ageing the Galactic Disc
+B. Rendle et al. (19 more). MNRAS (2019) 490 4465; adsabs:2019MNRAS.490.4465R; doi:10.1093/mnras/stz2454
+Discovery of a New Stellar Subpopulation Residing in the (Inner) Stellar Halo of the Milky Way
+Jose G. Fernandez-Trincado et al. (10 more). ApJL (2019) 886 L8; adsabs:2019ApJ...886L...8F; doi:10.3847/2041-8213/ab5286; arXiv:1904.05884
+TOI-150: An evolved star hosting a transiting hot Jupiter in the TESS southern CVZ
+Caleb Cañas et al. (24 more). ApJL (2019) 887 29; adsabs:2019ApJ...877L..29C; doi:10.3847/2041-8213/ab21c0
+The Relationship Between Globular Cluster Mass, Metallicity, and Light Element Abundance Variations (Includes some DR16 data)
+David M. Nataf et al. (8 more). AJ (2019) 158 14; adsabs:2019AJ....158...14N; doi:10.3847/1538-3881/ab1a27
+Discovery of a nitrogen-enhanced mildly metal-poor binary system: Possible evidence for pollution from an extinct AGB star
+José G. Fernández-Trincado et al. (15 more). A&A (2019) 631 97; adsabs:2019A&A...631A..97F; doi:10.1051/0004-6361/201935369; arXiv:1902.10635
+Close companions around young stars
+Marina Kounkel et al. (28 more). AJ (2019) 157 196; adsabs:2019AJ....157..196K; doi:10.3847/1538-3881/ab13b1; arXiv:1903.10523
+G 305 Star forming region: I. Newly classified hot stars
+Jura Borissova et al. (12 more). ApJ (2019) 158 46; adsabs:2019AJ....158...46B; doi:10.3847/1538-3881/ab276b
+Massive Stars in the SDSS-IV-APOGEE Survey: Wolf-Rayet Stars of the WN Type
+Alexandre Roman-Lopes et al. (5 more). ApJ (2020) 891 107; adsabs:2020ApJ...891..107R; doi:10.3847/1538-4357/ab72a6
+The age-resolved kinematic structure of the Milky Way disc with APOGEE and Gaia
+J. Ted Mackereth et al. (3 more). MNRAS (2019) 489 176; adsabs:2019MNRAS.489..176M; doi:10.1093/mnras/stz1521; arXiv:1901.04502
+Chemical Abundances of Main-Sequence, Turn-off, Subgiant and red giant Stars from APOGEE spectra II: Atomic Diffusion in M67 Stars
+Diogo Souto et al. (14 more). ApJ (2019) 874 97; adsabs:2019ApJ...874...97S; doi:10.3847/1538-4357/ab0b43
+Predicting Granulation ``Flicker" and Radial Velocity ``Jitter" from Spectroscopic Observables
+Jamie Tayar et al. (2 more). ApJ (2019) 883 195; adsabs:2019ApJ...883..195T; doi:10.3847/1538-4357
+Discovery of 148 Ap Stars with Resolved Magnetically Split Lines Via the SDSS/APOGEE Survey
+S. Drew Chojnowski et al. (5 more). ApJL (2019) 873 5; adsabs:2019ApJ...873L...5C; doi:10.3847/2041-8213/ab0750
+Massive Stars in the SDSS-IV/APOGEE-2 Survey. II OB stars in the W345 Complexes
+Alexandre Roman-Lopes et al. (15 more). ApJ (2019) 873 66; adsabs:2019ApJ...873...66R; doi:10.3847/1538-4357/ab0305
+Kepler-730: A hot Jupiter with an additional, close-in transiting Earth-sized planet
+Caleb Cañas et al. (3 more). ApJL (2019) 870 17; adsabs:2019ApJ...870L..17C; doi:10.3847/2041-8213/aafa1e; arXiv:1812.08358
+Spectrophotometric parallaxes with linear models: Accurate distances for luminous red-giant stars
+David W. Hogg et al. (2 more). AJ (2019) 158 147; adsabs:2019AJ....158..147H; doi:10.3847/1538-3881/ab398c
+A new homogeneous analysis of 10 northern globular clusters from the APOGEE survey with the BACCHUS code
+T. Masseron et al. (9 more). A&A (2019) 622 191; adsabs:2019A&A...622A.191M; doi:10.1051/0004-6361/201834550
+Binary companions of evolved stars in APOGEE DR14: Orbital circularization
+Adrian M. Price-Whelan and Jeremy Goodman. ApJ (2018) 867 5; adsabs:2018ApJ...867....5P; doi:10.3847/1538-4357/aae264; arXiv:1804.06841
+Tracing the Sagittarius Stream Using APOGEE Chemical Abundances
+Sten Hasselquist et al. (9 more). ApJ (2019) 872 58; adsabs:2019ApJ...872...58H; doi:10.3847/1538-4357/aafdac
+Chemical Cartography with APOGEE: Multi-element abundance ratios
+David H. Weinberg et al. (24 more). ApJ (2019) 874 102; adsabs:2019ApJ...874..102W; doi:10.3847/1538-4357/ab07c7; arXiv:1810.12325
+The Galactic inner halo assembly history inferred from alpha-patterns
+Emma Fernández-Alvar et al. (2 more). MNRAS (2019) 485 1745; adsabs:2019MNRAS.485.1745F; doi:10.1093/mnras/stz443
+The origin of accreted stellar halo populations in the Milky Way using APOGEE-Gaia and the EAGLE simulations
+J. Ted Mackereth et al. (8 more). MNRAS (2019) 482 3426; adsabs:2019MNRAS.482.3426M; doi:10.1093/mnras/sty2955
+APOGEE [C/N] Abundances Across the Galaxy
+Sten Hasselquist et al. (10 more). ApJ (2019) 871 181; adsabs:2019ApJ...871..181H; doi:10.3847/1538-4357/aaf859
+Identification of stellar populations through chemical abundances
+Rafael Garcia-Dias et al. (2 more). A&A (2019) 629 34; adsabs:2019A&A...629A..34G; doi:10.1051/0004-6361/201935223
+Constraining Metallicity Dependent Mixing and Extra Mixing using [C/N] in Alpha-Rich Field Giants
+Matthew Shetrone et al. (12 more). ApJ (2019) 872 137; adsabs:2019ApJ...872..137S; doi:10.3847/1538-4357/aaff66
+Chemical Abundances of M-Dwarfs from the Apogee Survey. II. The Exoplanet Hosting Star Ross 128
+Diogo Souto et al. (19 more). ApJ (2018) 860 15; adsabs:2018ApJ...860L..15S; doi:10.3847/2041-8213/aac896; arXiv:1805.11633
+Kepler-503b: An Object at the Hydrogen Burning Mass Limit Orbiting a Subgiant Star
+Caleb Cañas et al. (13 more). ApJL (2018) 861 4; adsabs:2018ApJ...861L...4C; doi:10.3847/2041-8213/aacbc5; arXiv:1805.0882
+The APOGEE-2 Survey of the Orion Star Forming Complex II: Six-dimensional structure
+Marina Kounkel et al. (19 more). AJ (2018) 156 84; adsabs:2018AJ....156...84K; doi:10.3847/1538-3881/aad1f1; arXiv:1805.04649
+The Origin of the 300 km/s Stream Near Segue 1
+Sal Wanying Fu et al. (10 more). ApJ (2018) 866 42; adsabs:2018ApJ...866...42F; doi:10.3847/1538-4357/aad9f9; arXiv:1804.08622
+APOGEE DR14 Abundances in the Inner Milky Way
+G. Zasowski et al. (7 more). ApJ (2019) 870 138; adsabs:2019ApJ...870..138Z; doi:10.3847/1538-4357/aaeff4; arXiv:1811.01097
+The Second APOKASC Catalog: The Empirical Approach
+Marc H. Pinsonneault et al. (33 more). ApJS (2018) 239 32; adsabs:2018ApJS..239...32P; doi:10.3847/1538-4365/aaebfd
+Data and Analysis for APOGEE Data Releases 13 and 14
+Jon A. Holtzman et al. (19 more). AJ (2018) 156 125; adsabs:2018AJ....156..125H; doi:10.3847/1538-3881/aad4f9; arXiv:1807.09773
+Binary companions of evolved stars in APOGEE DR14: Search method and catalog of $\sim$5,000 companions
+Adrian M. Price-Whelan et al. (3 more). AJ (2018) 156 18; adsabs:2018AJ....156...18P; doi:10.3847/1538-3881/aac387
+APOGEE data releases 13 and 14: Comparisons to Independent Analyses and Implications for Galactic Chemical Evolution
+Henrik Jönsson et al. (16 more). AJ (2018) 156 126; adsabs:2018AJ....156..126J; doi:10.3847/1538-3881/aad4f5; arXiv:1807.09784
+Disk-like Chemistry of the Triangulum-Andromeda Overdensity as Seen by APOGEE
+Christian R. Hayes et al. (16 more). ApJL (2018) 859 8; adsabs:2018ApJ...859L...8H; doi:10.3847/2041-8213/aac38c; arXiv:1805.03706
+The Open Cluster Chemical Abundances and Mapping Survey: II. Precision Cluster Abundances for APOGEE using SDSS DR14
+John Donor et al. (14 more). AJ (2018) 156 142; adsabs:2018AJ....156..142D; doi:10.3847/1538-3881/aad635; arXiv:1807.09791
+Age-chemical abundance structure of the Galactic disk I. Evidence for accretion of a gas-rich dwarf galaxy
+Jianhui Lian et al. (8 more). MNRAS (2020) 494 2561; adsabs:2020MNRAS.494.2561L; doi:10.1093/mnras/staa867; arXiv:2003.11549
+Age-Resolved Chemistry of Red Giants in the Solar Neighborhood
+Diane Feuillet et al. (9 more). MNRAS (2018) 477 2326; adsabs:2018MNRAS.477.2326F; doi:10.1093/mnras/sty779; arXiv:1803.06352
+30+ New & Known M Dwarf Multiples In The SDSS-III/APOGEE M Dwarf Ancillary Science Sample
+Jacob Skinner et al. (25 more). AJ (2018) 156 45; adsabs:2018AJ....156...45S; doi:10.3847/1538-3881/aac9c2
+A chemical and kinematical analysis of the intermediate-age open cluster IC 166 from APOGEE and Gaia DR2
+Jose Schiappacasse Ulloa et al. (6 more). AJ (2018) 156 94; adsabs:2018AJ....156...94S; doi:10.3847/1538-3881/aad048; arXiv:1806.09575
+A view of the H-band light-element chemical patterns in Globular Clusters under the AGB self-enrichment scenario
+F. Dell’Agli et al. (9 more). MNRAS (2018) 475 3098; adsabs:2018MNRAS.475.3098D; doi:10.1093/mnras/stx3249; arXiv:1712.04500
+Chemical Abundances of Main-Sequence, Turn-off, Subgiant and Red-Giant Stars in the Open Cluster M 67: Signatures of Diffusion
+Diogo Souto et al. (10 more). ApJ (2018) 857 14; adsabs:2018ApJ...857...14S; doi:10.3847/1538-4357/aab612; arXiv:1803.04461
+Massive stars in the SDSS-IV/APOGEE SURVEY. I- OB stars
+Alexandre Roman-Lopes et al. (12 more). ApJ (2018) 855 68; adsabs:2018ApJ...855...68R; doi:10.3847/1538-4357/aaac27; arXiv:1802.01724
+Abundance anomalies in red giants with possible extragalactic origins unveiled by APOGEE-2
+J. G. Fernandez-Trincado et al. (5 more). SF2A-2017 (2017) 199; adsabs:2017sf2a.conf..199F; doi:2017sf2a.conf..199F; arXiv:1710.07433
+The age-metallicity structure of the Milky Way disc with APOGEE
+J. Ted Mackereth et al. (2 more). MNRAS (2017) 471 3057; adsabs:2017MNRAS.471.3057M; doi:10.1093/mnras/stx1774; arXiv:1708.05399
+The Hercules stream as seen by APOGEE-2 South
+Jason A. S. Hunt et al. (16 more). MNRAS (2018) 474 95; adsabs:2018MNRAS.474...95H; doi:10.1093/mnras/stx2777; arXiv:1709.02807
+The DR14 APOGEE-TGAS catalogue: Precise chemo-kinematics in the extended solar vicinity
+Friedrich Anders et al. (6 more). IAUS (2018) 334 153; adsabs:2018IAUS..334..153A; doi:10.1017/S1743921317008882; arXiv:1708.09319
+StarHorse : A Bayesian tool for determining stellar masses, ages, distances, and extinctions for field stars
+A. B. Queiroz et al. (13 more). MNRAS (2018) 476 2556; adsabs:2018MNRAS.476.2556Q; doi:10.1093/mnras/sty330; arXiv:1710.09970
+Elemental Abundances of Kepler Objects of Interest in APOGEE. I. Two Distinct Orbital Period Regimes Inferred from Host Star Iron Abundances
+Robert Wilson et al. (14 more). AJ (2018) 155 68; adsabs:2018AJ....155...68W; doi:10.3847/1538-3881/aa9f27; arXiv:1712.01198
+Signatures of the Galactic bar on the stellar kinematics unveiled by APOGEE
+Pedro Alonso Palicio et al. (9 more). MNRAS (2018) 478 1231; adsabs:2018MNRAS.478.1231P; doi:10.1093/mnras/sty1156; arXiv:1805.04347
+12C/13C isotopic ratios of red-giant stars in the open cluster NGC 6791
+Laszlo Szigeti et al. (7 more). MNRAS (2018) 474 4810; adsabs:2018MNRAS.474.4810S; doi:10.1093/mnras/stx3027
+Target Selection for the SDSS-IV APOGEE-2 Survey
+G. Zasowski et al. (36 more). AJ (2017) 154 198; adsabs:2017AJ....154..198Z; doi:10.3847/1538-3881/aa8df9; arXiv:1708.00155
+Disentangling the Galacti Halo with APOGEE: II. Chemical and Star Formation History for the Two Distinct Populations
+Emma Fernández-Alvar et al. (6 more). ApJ (2018) 852 50; adsabs:2018ApJ...852...50F; doi:10.3847/1538-4357/aa9ced
+Machine learning in APOGEE: Unsupervised spectral classification with K-means
+Rafael Garcia-Dias et al. (2 more). A&A (2018) 612 98; adsabs:2018A&A...612A..98G; doi:10.1051/0004-6361/201732134
+The dimensionality of stellar chemical space using spectra from the Apache Point Observatory Galactic Evolution Experiment
+Natalie Price-Jones and Jo Bovy. MNRAS (2018) 475 1410; adsabs:2018MNRAS.475.1410P; doi:10.1093/mnras/stx3198
+The First APOKASC Catalog of Kepler Dwarf and Subgiant Stars
+Aldo Serenelli et al. (23 more). ApJS (2017) 233 23; adsabs:2017ApJS..233...23S; doi:10.3847/1538-4365/aa97df
+H-band discovery of additional second-generation stars in the Galactic bulge globular cluster NGC 6522 as observed by APOGEE and Gaia
+J. G. Fernandez-Trincado et al. (35 more). A&A (2019) 627 A178; adsabs:2019A&A...627A.178F; doi:10.1051/0004-6361/201834391; arXiv:1801.07136
+Disentangling the Galactic Halo with APOGEE: I. Chemical and Kinematical Investigation of Distinct Metal-Poor Populations
+Christian R. Hayes et al. (23 more). ApJ (2018) 852 49; adsabs:2018ApJ...852...49H; doi:10.3847/1538-4357/aa9cec; arXiv:1711.05781
+APOGEE Chemical Abundances of the Sagittarius Dwarf Galaxy
+Sten Hasselquist et al. (18 more). ApJ (2017) 845 162; adsabs:2017ApJ...845..162H; doi:10.3847/1538-4357/aa7ddc; arXiv:1707.03456
+Asteroseismology versus Gaia: Testing Scaling Relations using 2200 Kepler Stars with TGAS Parallaxes
+Daniel Huber et al. (17 more). ApJ (2017) 844 102; adsabs:2017ApJ...844..102H; doi:10.3847/1538-4357/aa75ca; arXiv:1705.04697
+Metallicity effect on granulation detected from red giant stars in open clusters
+Enrico Corsaro et al. (11 more). A&A (2017) 605 3C; adsabs:2017A&A...605A...3C; doi:10.1051/0004-6361/201731094; arXiv:1707.07474
+The age-metallicity structure of the Milky Way disk
+J.Ted Mackereth et al. (2 more). MNRAS (2017) 471 3057; adsabs:2017MNRAS.471.3057T; doi:10.1093/mnras/stx1774; arXiv:1708.05399
+Chemical Abundances And Ages Of The Bulge Stars In The High Velocity Peak
+Zhou Yingying et al. (21 more). ApJ (2017) 847 74; adsabs:2017ApJ...847...74Z; doi:10.3847/1538-4357/aa88c7; arXiv:1708.05160
+Adding the s-Process Element Cerium to the Apache Point Observatory Galactic Evolution Experiment (APOGEE): Identification and Characterization of Ce II Lines in the H-band Spectral Window
+Verne V. Smith et al. (18 more). ApJ (2017) 844 145; adsabs:2017ApJ...844..145C; doi:10.3847/1538-4357/aa7beb
+Atypical Mg-poor Milky Way Field Stars with Globular Cluster Second-generation-like Chemical Patterns
+J. G. Fernandez-Trincado et al. (30 more). ApJL (2017) 846 L2; adsabs:2017ApJ...846L...2F; doi:10.3847/2041-8213/aa8032; arXiv:1707.03108
+New Low-Mass Stars In The 25 Orionis Stellar Group And Orion Ob1A Sub-Association From SDSS-III/BOSS Spectroscopy
+Genaro Suárez et al. (8 more). AJ (2017) 154 14; adsabs:2017AJ....154...14S; doi:10.3847/1538-3881/aa733a; arXiv:1705.02722
+High-resolution, H-band Spectroscopy of Be stars with SDSS-III/APOGEE: II. Line Profile and Radial Velocity Variability
+Drew Chojnowski et al. (6 more). AJ (2017) 153 174; adsabs:2017AJ....153..174C; doi:10.3847/1538-3881/aa64ce
+Baade's window with APOGEE
+Matthias Schultheis et al. (6 more). A&A (2017) 600 14; adsabs:2017A&A...600A..14S; doi:10.1051/0004-6361/201630154; arXiv:1702.01547
+Chemical Abundances of M-dwarfs from the APOGEE Survey. I. The Exoplanet Hosting Stars Kepler-138 and Kepler-186
+Diogo Souto et al. (18 more). ApJ (2017) 835 2; adsabs:2017ApJ...835..239S; doi:10.3847/1538-4357/835/2/239; arXiv:1612.01598
+Timing the Evolution of the Galactic Disk with NGC 6791:\\ A Thick Disk Open Cluster with High-$\alpha$ Chemistry
+Sean Linden et al. (16 more). ApJ (2017) 842 49; adsabs:2017ApJ...842...49L; doi:10.3847/1538-4357/aa6f17; arXiv:1704.07305
+Identification of Neodymium in the APOGEE H-band Spectra
+Sten Hasselquist et al. (9 more). ApJ (2016) 833 81; adsabs:2016ApJ...833...81H; doi:10.3847/1538-4357/833/1/81
+APOGEE Chemical Abundances of Globular Cluster Giants in the Inner Galaxy
+Ricardo P. Schiavon et al. (8 more). MNRAS (2017) 465 501; adsabs:2017MNRAS.465..501S; doi:10.1093/mnras/stw2162; arXiv:1606.05651
+The Correlation Between Mixing Length And Metallicity On The Giant Branch: Implications For Ages In The Gaia Era
+Jamie Tayar et al. (29 more). ApJ (2017) 840 17; adsabs:2017ApJ...840...17T; doi:10.3847/1538-4357/aa6a1e; arXiv:1704.01164
+Two Groups of Red Giants with Distinct Chemical Abundances in the Bulge Globular Cluster NGC 6553 Through the Eyes of APOGEE
+Baitian Tang et al. (20 more). MNRAS (2016) 465 19; adsabs:2017MNRAS.465...19T; doi:10.1093/mnras/stw2739; arXiv:1610.06763
+Chemical trends in the Galactic Halo from APOGEE data
+Emma Fernandez-Alvar et al. (4 more). MNRAS (2017) 465 1586; adsabs:2017MNRAS.465.1586F; doi:10.1093/mnras/stw2861; arXiv:1611.01249
+The APOGEE-2 Survey of the Orion Star Forming Complex: I. Target Selection and Validation with Early Observations
+J'Neil Cottle et al. (16 more). ApJ (2018) 236 27; adsabs:2018ApJS..236...27C; doi:10.3847/1538-4365/aabada; arXiv:1804.06484
+DISCOVERY OF A METAL-POOR FIELD GIANT WITH A GLOBULAR CLUSTER SECOND-GENERATION ABUNDANCE PATTERN
+José G. Fernadez-Trincado et al. (32 more). ApJ (2016) 833 132; adsabs:2016ApJ...833..132F; doi:10.3847/1538-4357/833/2/132; arXiv:1604.01279
+Chemical Abundances in Field Red Giants from High-Resolution H-Band Spectra using the APOGEE Spectral Linelist
+Verne V. Smith et al. (10 more). ApJ (2013) 765 16; adsabs:2013ApJ...765...16S; doi:10.1088/0004-637X/765/1/16; arXiv:1212.4091
+New ATLAS9 And MARCS Model Atmosphere Grids for the Apache Point Observatory Galactic Evolution Experiment (APOGEE)
+Sz. Meszaros et al. (10 more). AJ (2012) 144 120; adsabs:2012AJ....144..120M; doi:10.1088/0004-6256/144/4/120; arXiv:1208.1916
+Calibrations of Atmospheric Parameters Obtained from the First Year of SDSS-III APOGEE Observations
+Sz. Meszaros et al. (27 more). AJ (2013) 146 133; adsabs:2013AJ....146..133M; doi:10.1088/0004-6256/146/5/133; arXiv:1308.6617
+The APOGEE Spectral Line List for H band Spectroscopy
+M. Shetrone et al. (17 more). ApJS (2015) 221 24; adsabs:2015ApJS..221...24S; doi:10.1088/0067-0049/221/2/24; arXiv:1502.04080
+ASPCAP: The Apogee Stellar Parameter and Chemical Abundances Pipeline
+Ana E. Garcia Perez et al. (29 more). AJ (2016) 151 144; adsabs:2016AJ....151..144G; doi:10.3847/0004-6256/151/6/144; arXiv:1510.07635
+The MaNGA FIREFLY Value-Added-Catalogue: resolved stellar populations of 10,010 nearby galaxies
+Justus Neumann et al. (16 more). MNRAS (2022) 513 5988; adsabs:2022MNRAS.513.5988N; doi:10.1093/mnras/stac1260; arXiv:2202.04082
+SDSS-IV MaNGA: Understanding Ionized Gas Turbulence using Integral Field Spectroscopy of 4500 Star-Forming Disk Galaxies
+David R. Law et al. (10 more). ApJ (2022) 928 58; adsabs:2022ApJ...928...58L; doi:10.3847/1538-4357/ac5620; arXiv:2112.11281
+SDSS-IV MaNGA: Cannibalism Caught in the Act -- on the Frequency of Occurrence of Multiple Cores in Brightest Cluster Galaxies
+Yun-Hsin Hsu et al. (20 more). ApJ (2022) 933 61; adsabs:2022ApJ...933...61H; doi:10.3847/1538-4357/ac6d66
+Evidence for Impact of Galaxy Mergers on Stellar Kinematics of Early-type Galaxies
+Yongmin Yoon et al. (3 more). ApJ (2022) 925 168; adsabs:2022ApJ...925..168Y; doi:10.3847/1538-4357/ac415d; arXiv:2112.13703
+SDSS IV MaNGA: Visual Morphological and Statistical Characterization of the DR15 sample.
+Jose Antonio Vazquez Mata et al. (7 more). MNRAS (2022) 512 2222; adsabs:2022MNRAS.512.2222V; doi:10.1093/mnras/stac635; arXiv:2203.02565
+SDSS-IV DR17: Final Release of MaNGA PyMorph Photometric and Deep Learning Morphological Catalogs
+Domínguez Sánchez H. et al. (3 more). MNRAS (2022) 509 4024; adsabs:2021MNRAS.tmp.2822D; doi:10.1093/mnras/stab3089; arXiv:2110.10694
+SDSS-IV MaNGA: A Catalogue of Spectroscopically Detected Strong Galaxy-Galaxy Lens Candidates
+Michael S. Talbot et al. (5 more). Published in journal; doi:10.1093/mnras/stac1736; arXiv:2206.09902
+Rotation Curves of Galaxies and Their Dependence on Morphology and Stellar Mass
+Yongmin Yoon et al. (3 more). ApJ (2021) 922 249; adsabs:2021ApJ...922..249Y; doi:10.3847/1538-4357/ac2302; arXiv:2110.06033
+Galaxy Zoo 3D: Crowd-sourced Bar, Spiral andForeground Star Masks for MaNGA Target Galaxies
+Karen L. Masters et al. (17 more). MNRAS (2021) 507 3923; adsabs:2021MNRAS.507.3923M; doi:10.1093/mnras/stab2282; arXiv:2108.02065
+SDSS-IV MaNGA: drivers of stellar metallicity in nearby galaxies
+Justus Neumann et al. (7 more). MNRAS (2021) 508 4844; adsabs:2021MNRAS.508.4844N; doi:10.1093/mnras/stab2868; arXiv:2109.11564
+Finding the Ultra-Harmonic Resonance from Photometry Alone
+D. Krishnarao et al. (13 more). AAS Division on Dynamical Astronomy Meeting (2021) 53 404.02; adsabs:2021DDA....5240402K
+Photometric Signature of Ultra-Harmonic Resonances in Barred Galaxies
+Dhanesh Krishnarao et al. (10 more). ApJ (2022) 929 112; adsabs:2022ApJ...929..112K; doi:10.3847/1538-4357/ac5d55; arXiv:2203.05578
+Estimating dust attenuation from galactic spectra. II. Stellar and gas attenuation in star-forming and diffuse ionized gas regions in MaNGA
+Niu Li et al. (9 more). ApJ (2021) 917 72; adsabs:2021ApJ...917...72L; doi:10.3847/1538-4357/ac0973; arXiv:2103.00666
+Wolf-Rayet galaxies in SDSS-IV MaNGA. II. Metallicity dependence of the high-mass slope of the stellar initial mass function
+Fu-Heng Liang et al. (6 more). ApJ (2021) 923 120; doi:10.3847/1538-4357/ac2bff; arXiv:2101.03217
+SDSS-IV MaNGA: the physical origin of off-galaxy Halpha blobs in the local Universe
+Xihan Ji et al. (11 more). MNRAS (2021) 508 3943; adsabs:2021MNRAS.508.3943J; doi:10.1093/mnras/stab2789; arXiv:2101.07293
+Star formation histories of massive red spiral galaxies in the local universe
+Shuang Zhou et al. (5 more). ApJ (2021) 916 38; adsabs:2021ApJ...916...38Z; doi:10.3847/1538-4357/ac06cc; arXiv:2011.13749
+SDSS-IV MaNGA: the "G-dwarf problem" revisited
+Michael Greener et al. (5 more). MNRAS (2021) 502 L92; adsabs:2021MNRAS.502L..95G; doi:10.1093/mnrasl/slab012; arXiv:2101.11022
+SDSS-IV MaNGA: Refining Strong Line Diagnostic Classifications Using Spatially Resolved Gas Dynamics
+David R Law et al. (10 more). ApJ (2021) 915 35; adsabs:2021ApJ...915...35L; doi:10.3847/1538-4357/abfe0a; arXiv:2011.06012
+SDSS-IV MaNGA: Gas-phase metallicity gradients in MaNGA galaxies vary across the mass-size plane
+Nicholas Boardman et al. (7 more). MNRAS (2021) 501 948; adsabs:2021MNRAS.501..948B; doi:10.1093/mnras/staa3785; arXiv:2012.02362
+HI-MaNGA: Tracing the physics of the neutral and ionized ISM with the second data release
+David V. Stark et al. (21 more). MNRAS (2021) 503 1345; doi:10.1093/mnras/stab566; arXiv:2101.12680
+Accurate Identification of Galaxy Mergers with Stellar Kinematics
+R. Nevin et al. (11 more). ApJ (2021) 912 45; adsabs:2021ApJ...912...45N; doi:10.3847/1538-4357/abe2a9
+Evidence for the Accretion of Gas in Star-Forming Galaxies: High N/O Abundances in Regions of Anomalously-Low Metallicity
+Yuanze Luo et al. (13 more). ApJ (2021) 908 183; adsabs:2021ApJ...908..183L; doi:10.3847/1538-4357/abd1df; arXiv:2012.04073
+Size, shade or shape? The contribution of galaxies of different types to the star-formation history of the Universe from SDSS-IV~MaNGA
+Thomas Peterken et al. (9 more). MNRAS (2021) 502 3128; adsabs:2021arXiv210111945P; doi:10.1093/mnras/stab268; arXiv:2101.11945
+Asymmetry Revisited: The effect of dust attenuation and galaxy inclination
+Fang-Ting Yuan et al. (2 more). ApJ (2021) 911 145; adsabs:2021ApJ...911..145Y; doi:10.3847/1538-4357/abec76; arXiv:2103.05888
+SDSS-IV MaNGA: Modeling the Spectral Line Spread Function to Sub-Percent Accuracy
+David R. Law et al. (12 more). AJ (2021) 161 52; adsabs:2021AJ....161...52L; doi:10.3847/1538-3881/abcaa2; arXiv:2011.04675
+SDSS-IV MaNGA: The Radial Profile of Enhanced Star Formation in Close Galaxy Pairs
+Joshua L. Steffen et al. (6 more). ApJ (2021) 909 120; adsabs:2021arXiv210203398S; doi:10.3847/1538-4357/abe2a5; arXiv:2102.03398
+Constraining Photoionization Models With a Reprojected Optical Diagnostic Diagram
+Xihan Ji and Renbin Yan. MNRAS (2020) 499 5749; adsabs:2020MNRAS.499.5749J; doi:10.1093/mnras/staa3259; arXiv:2007.09159
+SDSS-IV MaNGA: When is morphology imprinted on galaxies?
+Tom Peterken et al. (6 more). MNRAS (2020) 500 L42--L46; adsabs:2020MNRAS.500L..42P; doi:10.1093/mnrasl/slaa179; arXiv:2010.15213
+SDSS-IV MaNGA: Live fast and die young -- the effect of bars on the star formation histories of spiral galaxies
+Amelia Fraser-McKelvie et al. (9 more). MNRAS (2020) 499 1116; adsabs:2020MNRAS.499.1116F; doi:10.1093/mnras/staa2866; arXiv:2009.07859
+An analytical model to identify thin discs in MaNGA galaxies
+Meng Yang et al. (5 more). Published in journal; adsabs:2021MNRAS.504.2658Y; doi:10.1093/mnras/stab1049; arXiv:2104.07863
+ALMaQUEST - IV. The ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) Survey
+Lihwai Lin et al. (22 more). ApJ (2020) 903 145; adsabs:2020ApJ...903..145L; doi:10.3847/1538-4357/abba3a; arXiv:2010.01751
+Swift/UVOT+MaNGA (SwiM) Value-added Catalog
+Mallory Molina et al. (7 more). ApJS (2020) 251 11; adsabs:2020ApJS..251...11M; doi:10.3847/1538-4365/abba34; arXiv:2007.08541
+An Universal fundamental plane and the Mdyn − Mstar relation for galaxies with CALIFA and MaNGA.
+E. Aquino-Ortíz et al. (7 more). ApJ (2020) 900 17; adsabs:2020ApJ...900..109A; doi:10.3847/1538-4357/aba94e; arXiv:2005.09149
+The Stellar Mass Fundamental Plane: The virial relation and a very thin plane for slow-rotators
+M. Bernardi et al. (4 more). MNRAS (2020) 494 5148; adsabs:2020MNRAS.494.5148B; doi:10.1093/mnras/staa1064; arXiv:2004.07847
+SDSS-IV MaNGA: the role of bars in central star formation enhancement
+Lin Lin et al. (10 more). MNRAS (2020); adsabs:2020MNRAS.499.1406L; doi:10.1093/mnras/staa2913; arXiv:2005.09853
+SDSS-IV MaNGA: spatially resolved dust attenuation in spiral galaxies
+Michael Greener et al. (11 more). MNRAS (2020) 495 2305; adsabs:2020MNRAS.495.2305G; doi:10.1093/mnras/staa1300; arXiv:2005.02772
+Estimating dust attenuation from galactic spectra. I. methodology and tests
+Niu Li et al. (5 more). ApJ (2020) 896 38; adsabs:2020ApJ...896...38L; doi:10.3847/1538-4357/ab92a1; arXiv:2001.02815
+Excavating the fossil record of stellar populations in spiral galaxies
+Tom Peterken et al. (3 more). MNRAS (2020) 495 3387; adsabs:2020MNRAS.495.3387P; doi:10.1093/mnras/staa1303; arXiv:2005.03012
+Calibration of the Green Bank Telescope at L-band from 2016-2019
+Julian Goddy et al. (2 more). RNAAS (2020) 4 3; adsabs:2020RNAAS...4....3G; doi:10.3847/2515-5172/ab66bd
+Wolf-Rayet galaxies in SDSS-IV MaNGA. I. Catalog construction and sample properties
+Fu-Heng Liang et al. (7 more). ApJ (2020) 896 121; adsabs:2020ApJ...896..121L; doi:10.3847/1538-4357/ab9596; arXiv:2001.00431
+On the boundaries of AGN regions in optical BPT diagrams
+Xihan Ji et al. (4 more). MNRAS (2020) 496 1262; adsabs:2020MNRAS.496.1262J; doi:10.1093/mnras/staa1521; arXiv:2006.11298
+SDSS-IV MaNGA: Radial Gradients in Stellar Population Properties of Early and Late-Type Galaxies
+Taniya Parikh et al. (5 more). MNRAS (2021) 502 5508; adsabs:2021MNRAS.502.5508P; doi:10.1093/mnras/stab449; arXiv:2102.06703
+SDSS-IV MaNGA: Spatially resolved star formation in barred galaxies.
+Amelia Fraser-McKelvie et al. (5 more). MNRAS (2020) 495 4158; adsabs:2020MNRAS.495.4158F; doi:10.1093/mnras/staa1416; arXiv:2005.08987
+Host Galaxy Properties of Changing-look AGN Revealed in the MaNGA Survey
+Xiaoling Yu et al. (9 more). MNRAS (2020) 498 3985; adsabs:2020MNRAS.498.3985Y; doi:10.1093/mnras/staa2627; arXiv:2008.11336
+SDSS-IV MaNGA: Variations in the N/O - O/H relation bias metallicity gradient measurements
+Adam L. Schaefer et al. (6 more). ApJL (2020) 890 3; adsabs:2020ApJ...890L...3S; doi:10.3847/2041-8213/ab6f06
+SDSS IV MaNGA - Metallicity and ionisation parameter in localstar-forming galaxies from Bayesian fitting to photoionisation models
+M. Mingozzi et al. (17 more). A&A (2020) 636 A42; adsabs:2020A%26A...636A..42M; doi:10.1051/0004-6361/201937203; arXiv:2002.05744
+SDSS-IV MaNGA: Global and local stellar population properties of elliptical galaxies
+Ivan Lacerna et al. (5 more). A&A (2020) 644 A117; adsabs:2020A%26A...644A.117L; doi:10.1051/0004-6361/202037503; arXiv:2001.05506
+SDSS-IV MaNGA: A Dwarf E+A Galaxy Quenched by AGN Feedback
+Mariarosa Marinelli et al. (4 more). RNAAS (2020) 4; adsabs:2020RNAAS...4..110M; doi:10.3847/2515-5172/aba595
+The decoupling of star-gas co-rotation - I: the fundamental links to morphology and halo spin
+Christopher J. Duckworth and Rita Tojeiro. MNRAS (2020) 492 1869; adsabs:2020MNRAS.492.1869D; doi:10.1093/mnras/stz3575
+Less than the sum of its parts: the dust-corrected, spatially-resolved Halpha luminosity of star-forming galaxies explored with MaNGA and MUSE
+N. Vale Asari et al. (12 more). MNRAS (2020) 498 4205; adsabs:2020MNRAS.498.4205V; doi:10.1093/mnras/staa2557; arXiv:2007.05544
+Properties of Barred Galaxies in the MaNGA Galaxy Survey
+A. Fraser-McKelvie et al. (4 more). IAUS (2019) 353 226-230; adsabs:2020IAUS..353..226F; doi:10.1017/S1743921319008081; arXiv:1908.08350
+Environmental influences on star formation in low-mass galaxies observed by SDSS-IV/MaNGA survey
+Jing Sun et al. (3 more). ApJ (2020) 894 57; adsabs:2020ApJ...894...57S; doi:10.3847/1538-4357/ab6dee
+The Effect of Bars on the Ionized ISM: Optical Emission Lines from Milky Way Analogs
+Dhanesh Krishnarao et al. (17 more). ApJ (2020) 898 116; adsabs:2020ApJ...898..116K; doi:10.3847/1538-4357/ab9fa3; arXiv:2007.01874
+SDSS-IV MaNGA: New benchmark for the connection between stellar angular momentum and environment: a study of about 900 groups/clusters
+Mark T. Graham et al. (3 more). A&A; arXiv:1910.05139
+SDSS-IV MaNGA: Complete census of massive slow-rotator early-type galaxy candidates and their environment in a volume-limited sample
+Mark T. Graham et al. (3 more). A&A; arXiv:1910.05136
+A group finder algorithm optimised for the study of local galaxy environment
+Mark T. Graham and Michele Cappellari. A&A; arXiv:1910.05135
+SDSS-IV MaNGA: Bar pattern speed estimates with the Tremaine-Weinberg method and their error sources
+L. Garma-Oehmichen et al. (7 more). MNRAS (2020) 491 3655; adsabs:2020MNRAS.491.3655G; doi:10.1093/mnras/stz3101
+SDSS-IV MaNGA: Internal mass distributions and orbital structures of early-type galaxies and their dependence on environment
+Yunpeng Jin et al. (5 more). MNRAS (2020) 491 1690; adsabs:2020MNRAS.491.1690J; doi:doi:10.1093/mnras/stz3072
+Resolved and Integrated Stellar Masses in the SDSS-IV/MaNGA Survey, Paper II: Applications of PCA-based stellar mass estimates
+Zachary J. Pace et al. (11 more). ApJ (2019) 883 83; adsabs:2019ApJ...883...83P; doi:10.3847/1538-4357/ab3726; arXiv:1908.02331
+Post-Starburst Galaxies in SDSS-IV MaNGA
+Yanmei Chen et al. (6 more). MNRAS (2019) 489 5709; adsabs:2019MNRAS.489.5709C; doi:10.1093/mnras/stz2494
+SDSS-IV MaNGA: Spatial Evolution of Star formation Triggered by Galaxy Interactions
+Hsi-An Pan et al. (14 more). ApJ (2019) 881 119; adsabs:2019ApJ...881..119P; doi:10.3847/1538-4357/ab311c
+A Cautionary Tale of Attenuation in Star Forming Regions
+Mallory Molina et al. (7 more). MNRAS (2020) 494 4751; adsabs:2020MNRAS.494.4751M; doi:10.1093/mnras/staa919; arXiv:1905.02166
+The spatial extension of AGN narrow line regions in MaNGA AGN
+Jianhang Chen et al. (11 more). MNRAS; adsabs:2019MNRAS.489..855C; doi:10.1093/mnras/stz2183; arXiv:1908.02885
+Galaxy properties as revealed by MaNGA II. Differences in stellar populations of slow and fast rotator ellipticals and dependence on environment
+M. Bernardi et al. (4 more). MNRAS (2019) 489 4641; adsabs:2019MNRAS.489.4641E; doi:10.1093/mnras/stz2356
+Galaxy properties as revealed by MaNGA. I. Constraints on IMF and M∗/L gradients in ellipticals.
+Helena Domínguez Sánchez et al. (3 more). MNRAS (2019) 489 5612; adsabs:2019MNRAS.489.5612D; doi:10.1093/mnras/stz2414
+SDSS-IV MaNGA: Bars Show Flattened Stellar Population Gradients.
+Amelia Fraser-McKelvie et al. (11 more). MNRASL (2019) 488 6; adsabs:2019MNRAS.488L...6F; doi:10.1093/mnrasl/slz085
+Time-slicing Spiral Galaxies with SDSS-IV MaNGA
+Thomas Peterken et al. (7 more). MNRAS (2019) 489 1338; adsabs:2019MNRAS.489.1338P; doi:10.1093/mnras/stz2204
+Milky Way Analogs in MaNGA: Multi-Parameter Homogeneity and comparison to the Milky Way
+Nicholas Boardman et al. (17 more). MNRAS (2020) 491 3672; adsabs:2020MNRAS.491.3672B; doi:10.1093/mnras/stz3126
+SDSS-IV MaNGA: Environmental dependence of gas metallicity gradients in local star-forming galaxies
+Jianhui Lian et al. (8 more). MNRAS (2019) 489 1436; adsabs:2019MNRAS.489.1436L; doi:10.1093/mnras/stz2218
+Characterizing the local relation between star formation rate and gas-phase metallicity in MaNGA spiral galaxies
+Laura Sanchez Menguiano et al. (6 more). ApJ (2019) 882 9; adsabs:2019ApJ...882....9S; doi:10.3847/1538-4357/ab3044; arXiv:1904.03930
+Reconstruction of data cubes in integral field spectroscopy and application to MaNGA data
+Dou Liu et al. (2 more). AJ (2020) 159 22; adsabs:2020AJ....159...22L; doi:10.3847/1538-3881
+Anomalously Low-metallicity Regions in MaNGA Star-forming Galaxies: Accretion Caught in Action?
+Hsiang-Chih Hwang et al. (16 more). ApJ (2019) 872 144; adsabs:2019ApJ...872..144H; doi:10.3847/1538-4357/aaf7a3; arXiv:1812.04614
+SDSS-IV MaNGA: Effects of Morphology in the global and localStar Formation Main Sequences
+M. Cano-Díaz et al. (5 more). MNRAS (2019) 488 3929; adsabs:2019MNRAS.488.3929C; doi:10.1093/mnras/stz1894
+The local properties of supernovae explosion and their host galaxies
+Li Zhou et al. (5 more). RAA (2019) 20 121; adsabs:2019RAA....19..121Z; doi:10.1088/1674-4527/19/8/121
+SDSS-IV MaNGA : The Inner Density Slopes of nearby galaxies
+Ran Li et al. (13 more). MNRAS (2019) 490 2124; adsabs:2019MNRAS.490.2124L; doi:10.1093/mnras/stz2565
+The Data Analysis Pipeline for the SDSS-IV MaNGA IFU Galaxy Survey: Continuum subtraction and the modelling of emission lines
+Francesco Belfiore et al. (14 more). AJ (2019) 158 160; adsabs:2019AJ....158..160B; doi:10.3847/1538-3881/ab3e4e
+The Data Analysis Pipeline for the SDSS-IV MaNGA IFU Galaxy Survey: Overview
+Kyle B. Westfall et al. (30 more). AJ (2019) 158 231; adsabs:2019AJ....158..231W; doi:10.3847/1538-3881/ab44a2; arXiv:1901.00856
+SDSS-IV MaNGA: Environmental dependence of the Mgb/-sigma relation for nearby galaxies
+Zheng Zheng et al. (15 more). ApJ (2019) 873 63; adsabs:2019ApJ...873...63Z; doi:10.3847/1538-4357/ab03d2; arXiv:1902.07387
+SDSS-IV MaNGA: Stellar initial mass function variation inferred from Bayesian analysis of the integral field spectroscopy of early-type galaxies
+Shuang Zhou et al. (9 more). MNRAS (2019) 485 5256; adsabs:2019MNRAS.485.5256Z; doi:10.1093/mnras/stz764
+HI-MaNGA: HI Followup for the MaNGA Survey
+Karen L. Masters et al. (18 more). MNRAS (2019) 488 3396; adsabs:2019MNRAS.488.3396M; doi:10.1093/mnras/stz1889; arXiv:1901.05579
+Star Formation Driven Biconical Outflows in the Local Universe
+Dmitry Bizyaev et al. (3 more). ApJ (2019) 882 145; adsabs:2019ApJ...882..145B; doi:10.3847/1538-4357/ab3406
+Marvin: A Toolkit for Streamlined Access and Visualization of the SDSS-IV MaNGA Data Set
+Brian Cherinka et al. (11 more). AJ (2019) 158 74; adsabs:2019AJ....158...74C; doi:10.3847/1538-3881/ab2634; arXiv:1812.03833
+SDSS-IV MaNGA: Spatially resolved star-formation histories and the connection to galaxy physical properties
+K. Rowlands et al. (13 more). MNRAS (2018) 480 2544; adsabs:2018MNRAS.480.2544R; arXiv:1807.06066
+Interpreting the star formation - extinction relation with MaNGA
+Huan Li et al. (7 more). ApJ (2019) 872 63; adsabs:2019ApJ...872...63L; doi:10.3847/1538-4357/aafb6e; arXiv:1901.01707
+Signatures of stellar accretion in MaNGA early-type galaxies
+Grecco Oyarzun et al. (11 more). ApJ (2019) 880 111; adsabs:2019ApJ...880..111O; doi:10.3847/1538-4357/ab297c; arXiv:1906.05298
+Ionised gas outflow signatures in SDSS-IV MaNGA active galactic nuclei
+Dominika Wylezalek et al. (2 more). MNRAS (2020) 492 4680; adsabs:2020MNRAS.492.4680W; doi:10.1093/mnras/staa062
+SDSS IV MaNGA: Full spectroscopic bulge-disc decomposition of MaNGA early-type galaxies
+Martha Tabor et al. (5 more). MNRAS (2019) 485 1546; adsabs:2019MNRAS.485.1546T; doi:10.1093/mnras/stz431
+Uncovering dwarf elliptical evolution through spatially resolved spectroscopy
+Samantha Penny. IAUS (2019) 344 345; adsabs:2019IAUS..344..345P; doi:10.1017/S1743921318006725
+SNITCH: Seeking a simple, comparative star formation history inference tool
+Rebecca Smethurst et al. (5 more). MNRAS (2019) 484 3590; adsabs:2019MNRAS.484.3590S; doi:10.1093/mnras/stz239; arXiv:1901.07036
+Resolved and Integrated Stellar Masses in the SDSS-IV/MaNGA Survey, Paper I: PCA spectral fitting & stellar mass-to-light ratio estimates
+Zachary J. Pace et al. (11 more). ApJ (2019) 883 82; adsabs:2019ApJ...883...82P; doi:10.3847/1538-4357/ab3723; arXiv:1908.02330
+SDSS-IV MaNGA: Inside-out vs. outside-in quenching in different local environments
+Lihwai Lin et al. (14 more). ApJ (2019) 872 50; adsabs:2019ApJ...872...50L; doi:10.3847/1538-4357/aafa84; arXiv:1901.05126
+SDSS-IV MaNGA: local and global chemical abundance patterns in early-type galaxies
+Taniya Parikh et al. (8 more). MNRAS (2019) 483 3420; adsabs:2019MNRAS.483.3420P; doi:10.1093/mnras/sty3339; arXiv:1812.02753
+What drives the velocity dispersion of ionized gas in star-forming galaxies ?
+Xiaoling Yu et al. (13 more). MNRAS (2019) 486 4463; adsabs:2019MNRAS.486.4463Y; doi:10.1093/mnras/stz1146; arXiv:1904.11431
+Precessing winds from the nucleus of the prototype Red Geyser?
+Rogemar A. Riffel et al. (12 more). MNRAS (2019) 485 5590; adsabs:2019MNRAS.485.5590R; doi:10.1093/mnras/stz841
+SDSS-IV MaNGA PyMorph Photometric and Deep Learning Morphological Catalogs and implications for bulge properties and stellar angular momentum
+Johanna-Laina Fischer et al. (2 more). MNRAS (2019) 483 2057; adsabs:2019MNRAS.483.2057F; doi:10.1093/mnras/sty3135; arXiv:1811.02580
+Detecting Radio-AGN signatures in Red geysers
+Namrata Roy et al. (21 more). ApJ (2018) 869 117; adsabs:2018ApJ...869..117R; doi:10.3847/1538-4357/aaee72
+SDSS-IV MaNGA: Signatures of halo assembly in kinematically misaligned galaxies
+Chris Duckworth et al. (6 more). MNRAS (2018) 483 172; adsabs:2019MNRAS.483..172D; doi:10.1093/mnras/sty3101; arXiv:1811.06408
+A direct test of density wave theory in a grand-design spiral galaxy
+Thomas Peterken et al. (6 more). Nature Astronomy (2019) 3 178; adsabs:2018NatAs.tmp..159P; doi:10.1038/s41550-018-0627-5; arXiv:1809.08048
+An early-type galaxy with an inner star-forming disk
+Songlin Li et al. (6 more). MNRAS (2018) 480 1; adsabs:2018MNRAS.480.1705L; doi:10.1093/mnras/sty2008; arXiv:1808.01730
+Alignment between large-scale structure filaments and galaxy spins from the MaNGA integral-field survey
+Alex Krolewski et al. (6 more). ApJ (2019) 876 52; adsabs:2019ApJ...876...52K; doi:10.3847/1538-4357/ab1010
+SDSS IV MaNGA: Characterizing Non-Circular Motions in Galaxy Velocity Fields using the Radon Transform
+David V. Stark et al. (14 more). MNRAS (2018) 480 2217; adsabs:2018MNRAS.480.2217S; doi:10.1093/mnras/sty1991; arXiv:1807.11503
+SDSS-IV MaNGA: pattern speeds of barred galaxies
+Rui Guo et al. (8 more). MNRAS (2019) 482 1733; adsabs:2019MNRAS.482.1733G; doi:10.1093/mnras/sty2715
+The first 62 AGN observed with SDSS-IV MaNGA - III: stellar and gas kinematics
+Gabriele da Silva Ilha et al. (15 more). MNRAS (2019) 484 252; adsabs:2019MNRAS.484..252I; doi:10.1093/mnras/sty3373
+The first 62 AGN observed with SDSS-IV MaNGA - III: gas excitation and surface mass density distribution
+Janaı́na C. do Nascimento et al. (9 more). MNRAS (2019) 486 5075; adsabs:2019MNRAS.486.5075D; doi:10.1093/mnras/stz1083
+SDSS IV MaNGA - An archaeological view of the Cosmic Star Formation History
+S.F.Sanchez et al. (3 more). MNRAS (2019) 482 1557; adsabs:2019MNRAS.482.1557S; doi:10.1093/mnras/sty2730
+The first 62 AGN observed with SDSS-IV MaNGA - II: resolved stellar populations
+Nícolas Dullius Mallmann et al. (11 more). MNRAS (2018) 478 5491; adsabs:2018MNRAS.478.5491M; doi:doi:10.1093/mnras/sty1364
+SDSS-IV MaNGA: The Formation Sequence of S0 Galaxies
+Amelia Fraser-McKelvie et al. (6 more). MNRAS (2018) 481 5580; adsabs:2018MNRAS.481.5580F; doi:10.1093/mnras/sty2563; arXiv:1809.04336
+Morphology of AGN emission-line regions in SDSS-IV MaNGA survey
+Zhicheng He et al. (7 more). MNRAS (2018) 478 3614; adsabs:2018MNRAS.478.3614H; doi:10.1093/mnras/sty1322
+Widespread star formation inside galactic outflows
+R. Gallagher et al. (5 more). MNRAS (2019) 485 3409; adsabs:2019MNRAS.485.3409G; doi:10.1093/mnras/stz564
+Spatially resolved star-formation histories and the connection to galaxy physical properties
+Kate Rowlands et al. (11 more). MNRAS (2018) 480 2544; adsabs:2018MNRAS.480.2544R; doi:10.1093/mnras/sty1916; arXiv:1807.06066
+SDSS-IV MaNGA: The intrinsic shape of slow rotator early-type galaxies - unveiling a hidden prolate-like population
+Hongyu Li et al. (5 more). ApJL (2018) 863 19; adsabs:2018ApJ...863L..19L; doi:10.3847/2041-8213/aad54b
+Mergers in SDSS-IV MaNGA: Close Pair Fraction and Synchronized Black Hole Accretion
+Hai Fu et al. (6 more). ApJ (2018) 856 93; adsabs:2018ApJ...856...93F; doi:10.3847/1538-4357/aab364; arXiv:1801.00792
+SDSS-IV MaNGA: The Spatially Resolved Stellar Initial Mass Function in ∼400 Early-Type Galaxies
+Taniya Parikh et al. (22 more). MNRAS (2018) 477 3954; adsabs:2018MNRAS.477.3954P; doi:10.1093/mnras/sty785; arXiv:1803.08515
+The Radial Acceleration Relation in Early-type Galaxies from SDSS-IV MaNGA
+Yu Rong et al. (12 more). MNRAS (2018) 477 230; adsabs:2018MNRAS.477..230R; doi:10.1093/mnras/sty697
+SDSS-IV MaNGA: Modelling the metallicity gradients of gas and stars - radially dependent metal outflow vs IMF
+Jianhui Lian et al. (9 more). MNRAS (2018) 476 3883; adsabs:2018MNRAS.476.3883L; doi:10.1093/mnras/sty425; arXiv:1802.06793
+Suppression of central star formation in Seyfert galaxies by moderate black-hole accretion
+Longji Bing et al. (10 more). MNRAS (2019) 482 194; adsabs:2019MNRAS.482..194B; doi:10.1093/mnras/sty2662
+SDSS IV MaNGA: Star Formation Cessation in Low-redshift Galaxies I. Dependence on Stellar Mass and Structural Properties
+Enci Wang et al. (6 more). ApJ (2018) 856 137; adsabs:2018ApJ...856..137W; doi:10.3847/1538-4357/aab263
+SDSS-IV MaNGA: The Spectroscopic Discovery of Strongly Lensed Galaxies
+Michael S. Talbot et al. (13 more). MNRAS (2018) 477 195; adsabs:2018MNRAS.477..195T; doi:10.1093/mnras/sty653; arXiv:1803.03604
+SDSS IV MaNGA: Dependence of Global and Spatially-resolved SFR-M* Relations on Galaxy Properties
+Hsi-An Pan et al. (8 more). ApJ (2018) 854 159; adsabs:2018ApJ...854..159P; doi:10.3847/1538-4357/aaa9bc; arXiv:1801.04446
+SDSS-IV MaNGA: The Spatial Distribution of Star Formation and its Dependence on Mass, Structure and Environment
+Ashley Spindler et al. (6 more). MNRAS (2018) 476 580; adsabs:2018MNRAS.476..580S; doi:10.1093/mnras/sty247; arXiv:1710.05049
+SDSS-IV MaNGA: Stellar angular momentum of about 2300 galaxies: unveiling the bimodality of massive galaxy properties
+Mark T. Graham et al. (16 more). MNRAS (2018) 477 4711; adsabs:2018MNRAS.477.4711G; doi:10.1093/mnras/sty504; arXiv:1802.08213
+Low Metallicities and Old Ages for Two Ultra-Diffuse Galaxies in the Coma Cluster
+Meng Gu et al. (19 more). ApJ (2018) 859 37; adsabs:2018ApJ...859...37G; doi:10.3847/1538-4357/aabbae; arXiv:1709.07003
+Spatially resolved star formation and dust attenuation in Mrk848: Comparison of the integral field spectra and the UV-to-IR SED
+Fang-Ting Yuan et al. (5 more). AA (2018) 613 13; adsabs:2018A&A...613A..13Y; doi:10.1051/0004-6361/201731865; arXiv:1801.04860
+SDSS IV-MaNGA: sSFR profiles and the slow quenching of discs in green valley galaxies
+F. Belfiore et al. (4 more). MNRAS (2018) 477 3014; adsabs:2018MNRAS.477.3014B; doi:10.1093/mnras/sty768; arXiv:1710.05034
+SDSS-IV MaNGA: Properites of AGN Host Galaxies
+S.F. Sanchez et al. (16 more). RevMxAA (2018) 54 217; adsabs:2018RMxAA..54..217S; arXiv:1709.05438
+SDSS-IV MaNGA: The Different Quenching Histories of Fast and Slow Rotators
+Rebecca Smethurst et al. (9 more). MNRAS (2018) 473 2679; adsabs:2018MNRAS.473.2679S; doi:10.1093/mnras/stx2547; arXiv:1709.09175
+SDSS-IV MaNGA: Evidence for AGN feedback in low-mass galaxies
+Samantha J. Penny et al. (2 more). MNRAS (2018) 476 979; adsabs:2018MNRAS.476..979P; doi:10.1093/mnras/sty202; arXiv:1710.07568
+The MaNGA View of the “Kinematic Morphology-Density Relation”
+J. E. Greene et al. (14 more). ApJL (2017) 851 33; adsabs:2017ApJ...851L..33G; doi:10.3847/2041-8213/aa8ace; arXiv:1708.07843
+SDSS-IV MaNGA: Spatially Resolved Star Formation Main Sequence and LI(N)ER Sequence
+B. C. Hsieh et al. (18 more). ApJL (2017) 851 24; adsabs:2017ApJ...851L..24H; doi:10.3847/2041-8213/aa9d80; arXiv:1711.09162
+Joint ALMA and MaNGA analysis on green valley galaxies
+Lihwai Lin et al. (23 more). ApJ (2017) 851 18; adsabs:2017ApJ...851...18L; doi:10.3847/1538-4357/aa96ae; arXiv:1710.08610
+MaNGA Uncovers the Angular Momentum Content of Central and Satellite Early-type Galaxies
+J. E. Greene et al. (9 more). ApJ (2018) 852 36; adsabs:2018ApJ...852...36G; doi:10.3847/1538-4357/aa9bde; arXiv:1708.07845
+The SDSS-IV MaNGA Sample: Design, Optimization, and Usage Considerations
+David A. Wake et al. (17 more). AJ (2017) 154 86; adsabs:2017AJ....154...86W; doi:10.3847/1538-3881/aa7ecc; arXiv:1707.02989
+SDSS-IV MaNGA: What shapes the metals in galaxies? Exploring the local gas fraction-metallicity relation
+Jorge Barrera-Ballesteros et al. (7 more). ApJ (2018) 852 74; adsabs:2018ApJ...852...74B; doi:10.3847/1538-4357/aa9b31; arXiv:1711.10492
+The integrated mass metallicity relation for the SDSS-IV MaNGA galaxies
+J.K Barrera-Ballesteros et al. (3 more). ApJ (2017) 844 80; adsabs:2017ApJ...844...80B; doi:10.3847/1538-4357/aa7aa9; arXiv:1706.09893
+SDSS-IV MaNGA: What sets the conditions for star formation in galaxies?
+David V. Stark et al. (14 more). MNRAS (2017) 474 2323; adsabs:2018MNRAS.474.2323S; doi:10.1093/mnras/stx2903; arXiv:1711.00178
+SDSS-IV MaNGA: Discovery Of An Hα Blob Associated With A Dry Galaxy Pair – A 'Dark' Galaxy/Gas Cloud Or Stripped Gas?
+Lihwai Lin et al. (32 more). ApJ (2017) 837 32; adsabs:2017ApJ...837...32L; doi:10.3847/1538-4357/837/1/32; arXiv:1702.02464
+The shape of the gas metallicity and nitrogen abundance gradients in the local Universe
+Francesco Belfiore et al. (11 more). MNRAS (2017) 469 151; adsabs:2017MNRAS.469..151B; doi:10.1093/mnras/stx789; arXiv:1703.03813
+SDSS IV MaNGA: Deep observations of extraplanar, diffuse ionized gas around late-type galaxies from stack IFU spectra
+Amy Jones et al. (18 more). A&A (2017) 599 141; adsabs:2017A&A...599A.141J; doi:10.1051/0004-6361/201629802; arXiv:1612.03920
+Zooming into local active galactic nuclei: The power of combining SDSS-IV MaNGA with higher resolution integral field unit observations
+Dominika Wylezalek et al. (11 more). MNRAS (2017) 467 2612; adsabs:2017MNRAS.467.2612W; doi:10.1093/mnras/stx246; arXiv:1610.01602
+Rotation Velocity Lags in the Extraplanar Ionized Gas from MaNGA Observations
+Dmitry Bizyaev et al. (3 more). ApJ (2017) 839 87; adsabs:2017ApJ...839...87B; doi:10.3847/1538-4357/aa6979; arXiv:1704.02582
+SDSS-IV MaNGA: Spatially resolved star formation histories in galaxies as a function of galaxy mass and type
+Daniel Goddard et al. (25 more). MNRAS (2017) 466 4731; adsabs:2017MNRAS.466.4731G; doi:10.1093/mnras/stw3371; arXiv:1612.01546
+A Local Fundamental Relation For Typical Disk Galaxies And Its Interpretation With A Local Leaky-Box Model
+Guangtun Ben Zhu et al. (4 more). MNRAS (2017) 468 4494; adsabs:2017MNRAS.468.4494Z; doi:10.1093/mnras/stx740; arXiv:1701.00003
+The first 62 AGN observed with SDSS-IV MaNGA - I: their characterization and definition of a control sample
+Sandro B. Rembold et al. (17 more). MNRAS (2017) 472 4382; adsabs:2017MNRAS.472.4382R; doi:10.1093/mnras/stx2264; arXiv:1709.10086
+SDSS-IV MaNGA: stellar population gradients as a function of galaxy environment
+Daniel Goddard et al. (25 more). MNRAS (2017) 465 688; adsabs:2017MNRAS.465..688G; doi:10.1093/mnras/stw2719; arXiv:1612.01545
+SDSS-IV MaNGA: A serendipitous observation of warm gas accretion
+Edmond Cheung et al. (25 more). ApJ (2016) 832 182; adsabs:2016ApJ...832..182C; doi:0.3847/0004-637X/832/2/182; arXiv:1609.02155
+Star Formation History of the Galaxy Merger Mrk848 with SDSS-IV MaNGA
+Fang-Ting Yuan et al. (3 more). IAUS (2017) 321 304; adsabs:2017IAUS..321..304Y; doi:10.1017/S1743921316008978
+SDSS-IV MaNGA: Initial mass function variation
+Hongyu Li et al. (8 more). ApJ (2017) 636 77; adsabs:2017ApJ...838...77L; doi:10.3847/1538-4357/aa662a; arXiv:1703.04894
+SDSS IV MaNGA - The spatially resolved transition from star formation to quiescence
+Francesco Belfiore et al. (21 more). MNRAS (2017) 466 2570; adsabs:2017MNRAS.466.2570B; doi:10.1093/mnras/stw3211; arXiv:1609.01737
+Do galaxy global relationships emerge from local ones? I. The MaNGA surface mass density - metallicity relation
+Jorge Barrera-Ballesteros et al. (11 more). MNRAS (2016) 463 2513; adsabs:2016MNRAS.463.2513B; doi:10.1093/mnras/stw1984; arXiv:1609.01740
+Faint quenched galaxies in SDSS-IV MaNGA -I: Sample selection and evidence for environmental quenching
+Samantha Penny et al. (3 more). MNRAS (2016) 462 3955; adsabs:2016MNRAS.462.3955P; doi:10.1093/mnras/stw1913; arXiv:1609.01299
+SDSS-IV MaNGA: environmental dependence of stellar age and metallicity gradients in nearby galaxies
+Zheng Zheng (NAOC) et al. (18 more). MNRAS (2017) 465 4572; adsabs:2017MNRAS.465.4572Z; doi:10.1093/mnras/stw3030; arXiv:1612.01523
+SDSS-IV MaNGA: The Impact of Diffuse Ionized Gas on Emission-line Ratios, Interpretation of Diagnostic Diagrams, and Gas Metallicity Measurements
+Kai Zhang et al. (24 more). MNRAS (2017) 466 3217; adsabs:2017MNRAS.466.3217Z; doi:10.1093/mnras/stw3308; arXiv:1612.02000
+SDSS-IV MaNGA: Global stellar population and gradients for about 2000 early-type and spiral galaxies on the mass-size plane
+Hongyu Li et al. (10 more). MNRAS (2018) 476 1765; adsabs:2018MNRAS.476.1765L; doi:10.1093/mnras/sty334; arXiv:1802.01819
+SDSS-IV MaNGA IFS Galaxy Survey --- Survey Design, Execution, and Initial Data Quality
+Renbin Yan et al. (49 more). AJ (2016) 152 197; adsabs:2016AJ....152..197Y; doi:10.3847/0004-6256/152/6/197; arXiv:1607.08613
+SDSS-IV MaNGA: Bulge-Disc Decomposition of IFU Data (BUDDI)
+Evelyn Johnston et al. (12 more). MNRAS (2017) 465 2317; adsabs:2017MNRAS.465.2317J; doi:10.1093/mnras/stw2823; arXiv:1611.00609
+The Data Reduction Pipeline for the SDSS-IV MaNGA IFU Galaxy Survey
+David R. Law et al. (27 more). AJ (2016) 152 83; adsabs:2016AJ....152...83L; doi:10.3847/0004-6256/152/4/83; arXiv:1607.08619
+The global and local stellar mass assembly of 10^8.5-10^11.5 Msun galaxies from the MaNGA survey
+Héctor Javier Ibarra Medel et al. (12 more). MNRAS (2016) 463 2799; adsabs:2016MNRAS.463.2799I; doi:10.1093/mnras/stw2126; arXiv:1609.01304
+SDSS-IV MaNGA: Properties of galaxies with kinematically decoupled stellar and gaseous components
+Yifei Jin et al. (27 more). MNRAS (2016) 463 913; adsabs:2016MNRAS.463..913J; doi:10.1093/mnras/stw2055; arXiv:1611.00528
+The growth of the central region by acquisition of counter-rotating gas in star-forming galaxies
+Yanmei Chen et al. (29 more). Nature Communications (2016) 7 13269; adsabs:2016NatCo...713269C; doi:10.1038/ncomms13269; arXiv:1611.00480
+SDSS IV MaNGA - Spatially resolved diagnostic diagrams: A proof that many galaxies are LIERs
+F. Belfiore et al. (17 more). MNRAS (2016) 461 3111; adsabs:2016MNRAS.461.3111B; doi:10.1093/mnras/stw1234; arXiv:1605.07189
+Pipe3D, a pipeline to analyse Integral Field Spectroscopy Data: II. Analysis sequence and CALIFA dataproducts.
+S. F. Sánchez et al. (18 more). RevMxAA (2016) 52 171; adsabs:2016RMxAA..52..171S; arXiv:1602.01830
+Suppressing star formation in quiescent galaxies with supermassive black hole winds
+Edmond Cheung et al. (23 more). Nature (2016) 533 504; adsabs:2016Natur.533..504C; doi:10.1038/nature18006; arXiv:1605.07626
+Isolated Galaxies versus Interacting Pairs with MaNGA
+María del Carmen Argudo Fernández et al. (5 more). Galaxies (2015) 3 156; adsabs:2015Galax...3..156F; doi:10.3390/galaxies3040156; arXiv:1510.08179
+MaNGA: Mapping Nearby Galaxies at Apache Point Observatory
+Anne-Marie Weijmans & MaNGA Team. ASPC (2016) 507 257; adsabs:2016ASPC..507..257W; arXiv:1508.04314
+Observing Strategy for the SDSS-IV/MaNGA IFU Galaxy Survey
+David R. Law et al. (13 more). AJ (2015) 150 19; adsabs:2015AJ....150...19L; doi:10.1088/0004-6256/150/1/19; arXiv:1505.04285
+SDSS-IV MaNGA: Spectrophotometric Calibration Technique
+Renbin Yan et al. (21 more). ApJ (2016) 151 8; adsabs:2016AJ....151....8Y; doi:10.3847/0004-6256/151/1/8; arXiv:1511.01496
+A Near-Ideal Integral Field Unit Fiber Feed System For The Sloan 2.5 M Telescope
+Niv Drory et al. (16 more). AJ (2015) 149 77; adsabs:2015AJ....149...77D; doi:10.1088/0004-6256/149/2/77; arXiv:1412.1535
+Overview of the SDSS-IV MaNGA Survey: Mapping Nearby Galaxies at APO
+Kevin Bundy et al. (67 more). ApJ (2015) 798 7; adsabs:2015ApJ...798....7B; doi:10.1088/0004-637X/798/1/7; arXiv:1412.1482
+MaNGA Prototype Data Analysis: Gas Ionisation and Chemical Abundances
+Francesco Belfiore et al. (21 more). MNRAS (2015) 449 867; adsabs:2015MNRAS.449..867B; doi:10.1093/mnras/stv296; arXiv:1410.7781
+P-MaNGA: Gradients in Recent Star Formation Histories as Diagnostics for Galaxy Growth and Death
+Cheng Li et al. (33 more). ApJ (2015) 804 125; adsabs:2015ApJ...804..125L; doi:10.1088/0004-637X/804/2/125; arXiv:1502.07040
+P-MaNGA: Full spectral fitting and stellar population maps from prototype observations
+David Wilkinson et al. (27 more). MNRAS (2015) 449 328; adsabs:2015MNRAS.449..328W; doi:10.1093/mnras/stv301; arXiv:1503.01124
+SDSS-IV MaStar: Data-driven Parameter Derivation for the MaStar Stellar Library
+Julie Imig et al. (12 more). AJ (2022) 163 56; doi:10.3847/1538-3881/ac3ca7; arXiv:2112.01669
+Stellar population models based on the SDSS-IV MaStar library of stellar spectra. I. Intermediate-age/old models.
+C. Maraston et al. (11 more). MNRAS (2020) 496 2962; adsabs:2020MNRAS.496.2962M; doi:10.1093/mnras/staa1489; arXiv:1911.05748
+Stellar parameters for the first release of MaStar stellar library: an empirical approach
+Yanping Chen et al. (12 more). ApJ (2020) 899 62; adsabs:2020ApJ...899...62C; doi:10.3847/1538-4357/ab9f35; arXiv:2006.13711
+SDSS-IV MaStar --- A Large and Comprehensive Empirical Stellar Spectral Library
+Renbin Yan et al. (47 more). ApJ (2019) 883 175; adsabs:2019ApJ...883..175Y; doi:10.3847/1538-4357/ab3ebc; arXiv:1812.02745
+The eROSITA Final Equatorial-Depth Survey (eFEDS): Galaxy Clusters and Groups in Disguise
+Esra Bulbul et al. (23 more). A&A (2022) 661 A10; adsabs:2022A&A...661A..10B; doi:10.1051/0004-6361/202142460; arXiv:2110.09544
+Gravitational Redshifting of Galaxies in the SPIDERS Cluster Catalogue
+C. T. Mpetha et al. (6 more). MNRAS (2021) 503 669; adsabs:/2021MNRAS.503..669M; doi:10.1093/mnras/stab544
+SPIDERS: overview of the largest spectroscopically confirmed X-ray galaxy cluster catalogue
+C. C. Kirkpatrick et al. (18 more). MNRAS (2021) 503 5763; adsabs:2021arXiv210104695K; doi:10.1093/mnras/stab127; arXiv:2101.04695
+SPIDERS: overview of the X-ray galaxy cluster follow-up and the final spectroscopic data release
+N. Clerc et al. (22 more). MNRAS (2020) 497 3976; adsabs:2020arXiv200705484C; doi:10.1093/mnras/staa2066; arXiv:2007.05484
+Cosmology by counting the CODEX clusters spectroscopically confirmed by SDSS-IV/SPIDERS
+J . Ider Chitham et al. (12 more). MNRAS (2020) 499 4768; adsabs:2020MNRAS.499.4768I; doi:10.1093/mnras/staa3044
+DR16 point source catalogue article
+J. Comparat et al. (17 more). A&A (2020) 636 A97; adsabs:2020A%26A...636A..97C; doi:10.1051/0004-6361/201937272; arXiv:1912.03068
+Exploring the Diversity of Type 1 Active Galactic Nuclei Identified in SDSS-IV/SPIDERS
+Julien Wolf et al. (9 more). MNRAS (2020) 492 3580; adsabs:2020MNRAS.492.3580W; doi:10.1093/mnras/staa018
+A Value-added Reference catalog of Brightest Cluster Galaxies of SPIDER-CODEX clusters: Stellar population properties and morphologies
+G.Erfanianfar et al. (21 more). A&A (2019) 631 175; adsabs:2019A&A...631A.175E; doi:10.1051/0004-6361/201935375
+Calibration of the Cluster Richness-Mass relation using SPIDERS Spectroscopy of the CODEX Cluster Sample
+R. Capasso et al. (5 more). MNRAS (2019) 486 1594; adsabs:2019MNRAS.486.1594C; doi:10.1093/mnras/stz931
+SPIDERS: A Catalogue of X-Ray Selected AGN Properties. Multiwavelength Properties and Black Hole Mass Estimates for all SPIDERS SDSS DR14 AGN
+Damien Coffey et al. (8 more). A&A (2019) 625; adsabs:2019A%26A...625A.123C; doi:10.1051/0004-6361/201833996; arXiv:1904.10780
+Exploring Relations Between BCG & Cluster Properties in the SPectroscopic IDentification of eROSITA Sources Survey from 0.05 < z < 0.3
+Kate Furnell et al. (8 more). MNRAS (2018) 478 4952; adsabs:2018MNRAS.478.4952F; doi:10.1093/mnras/sty991; arXiv:1804.02868
+The redshift dependence of the specific-accretion rate distribution of X-ray selected AGN
+A. Georgakakis et al. (7 more). MNRAS (2017) 471 1976; adsabs:2017MNRAS.471.1976G; doi:10.1093/mnras/stx1602; arXiv:1705.01133
+SPIDERS: Selection of spectroscopic targets using AGN candidates detected in all-sky X-ray surveys
+T. Dwelly et al. (20 more). MNRAS (2017) 469 1065; adsabs:2017MNRAS.469.1065D; doi:10.1093/mnras/stx864; arXiv:1704.01796
+SPIDERS: the spectroscopic follow-up of X-ray selected clusters of galaxies in SDSS-IV
+Nicolas Clerc et al. (20 more). MNRAS (2016) 463 4490; adsabs:2016MNRAS.463.4490C; doi:10.1093/mnras/stw2214; arXiv:1608.08963
+The Time Domain Spectroscopic Survey: Changing-Look Quasar Candidates from Multi-Epoch Spectroscopy in SDSS-IV
+Paul J. Green et al. (9 more). ApJ (2022) 933 180; adsabs:2022ApJ...933..180G; doi:10.3847/1538-4357/ac743f; arXiv:2201.09123
+The Time-Domain Spectroscopic Survey: Radial Velocity Variability in Dwarf Carbon Stars
+Benjamin R. Roulston et al. (4 more). ApJ (2019) 877 44; adsabs:2019ApJ...877...44R; doi:10.3847/1538-4357/ab1a3e
+The Time-Domain Spectroscopic Survey: Target Selection for Repeat Spectroscopy
+Chelsea L. MacLeod et al. (33 more). AJ (2018) 155 6; adsabs:2018AJ....155....6M; doi:10.3847/1538-3881/aa99da; arXiv:1706.04240
+Broad Absorption Line Disappearance and Emergence Using Multiple-Epoch Spectroscopy from the Sloan Digital Sky Survey
+S.M. McGraw et al. (9 more). MNRAS (2017) 469 3163; adsabs:2017MNRAS.469.3163M; doi:10.1093/mnras/stx1063; arXiv:1705.03019
+CIV Broad Absorption Line Acceleration in Sloan Digital Sky Survey Quasars
+C. J. Grier et al. (12 more). ApJ (2016) 824 130; adsabs:2016ApJ...824..130G; doi:10.3847/0004-637X/824/2/130; arXiv:1604.07410
+Now You See It, Now You Don't: The Disappearing Central Engine of the Quasar J1011+5442
+Jessie C. Runnoe et al. (13 more). MNRAS (2016) 455 1691; adsabs:2016MNRAS.455.1691R; doi:10.1093/mnras/stv2385; arXiv:1509.03640
+Towards an Understanding of Changing Look Quasars with a Statistical Sample: An Archival Spectroscopic Search in SDSS
+John J. Ruan et al. (10 more). ApJ (2016) 826 188; adsabs:2016ApJ...826..188R; doi:10.3847/0004-637X/826/2/188; arXiv:1509.03634
+The Time Domain Spectroscopic Survey: Variable Selection and Anticipated Results
+Eric Morganson et al. (39 more). ApJ (2015) 806 244; adsabs:2015ApJ...806..244M; doi:10.1088/0004-637X/806/2/244; arXiv:1505.00760
