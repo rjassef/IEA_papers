@@ -41,6 +41,7 @@ students = [
 
 #People that have incorrectly had the affiliation in a paper.
 black_listed = [
+    'Albarracin, R',
     'Apostolovski, Y',
     'Avenhaus, H',
     'Baughman, J', 
@@ -55,6 +56,8 @@ black_listed = [
     'Perez, S',
     'Phadke, K', 
     'Reuter, C',
+    'Rouan, D',
+    'Schmidt, T',
 ]
 
 #Function to search for all papers from UDP in ADS in a given year. Specifically, we search for papers in which at least one author has a UDP affiliation. 
