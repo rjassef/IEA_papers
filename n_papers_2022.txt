@@ -1,0 +1,65 @@
+UCH        Blanc, G              17.0
+UCH        Bronfman, L           20.0
+UCH        Campusano, L           0.0
+UCH        Casassus, S            7.0
+UCH        Costa, E               1.5
+UCH        Escala, A              1.0
+UCH        Finger, R              1.0
+UCH        Forster, F.            0.0
+UCH        Lira, P                2.0
+UCH        Lopez, S               6.0
+UCH        Mardones, D            3.0
+UCH        Max Moerbeck, W        5.0
+UCH        Maza, J                0.0
+UCH        Mendez, R              3.0
+UCH        Munoz, R               6.0
+UCH        Perez, L               9.0
+UCH        Rojo, P                6.5
+UCH        Rubio, M               6.0
+UCH        Ruiz, M                1.0
+UDP        Aravena, M            20.5
+UDP        Assef, R               2.5
+UDP        Cieza, L               1.8
+UDP        Jenkins, J             9.0
+UDP        Johnston, E            8.5
+UDP        Jofre, P               8.8
+UDP        Mazzucchelli, C        2.0
+UDP        Prieto, J             11.5
+UDP        Ricci, C              31.5
+UDP        Yang, B                3.0
+UDP        Zurlo, A              13.8
+PUC        Aguilera Gomez, C      0.0
+PUC        Barrientos, L          4.3
+PUC        Bauer, F              22.8
+PUC        Catelan, M            10.5
+PUC        Chaname, J             3.0
+PUC        Clocchiatti, A         1.0
+PUC        Dunner, R              4.0
+PUC        Galaz, G               2.8
+PUC        Guzman, V              3.0
+PUC        Petrovich, C           4.0
+PUC        Puzia, T               7.5
+PUC        Tissera, P             6.0
+PUC        Treister, E           14.5
+PUC        Zoccali, M             5.5
+UNAB       Anguita, T             3.0
+UNAB       Caceres, C             1.0
+UNAB       Chemin, L              0.0
+UNAB       Gavignaud, I           0.0
+UNAB       Gomez Camus, M         0.0
+UNAB       Guaita, L              8.0
+UNAB       Masetti, N             7.0
+UNAB       Minniti, D            27.0
+UNAB       Monaco, L             10.0
+UNAB       Nantais, J             3.0
+UNAB       Pignata, G             8.0
+UNAB       Ohnaka, K              3.0
+UAI        Benitez Llambay, P     0.0
+UAI        Brahm, R               5.0
+UAI        Cuadra, J              6.0
+UAI        Jordan, A              5.0
+UAI        Mulders, G             2.0
+UAI        Munoz, D               0.0
+UTA        Boquien, M             0.0
+UTA        Carballo Bello, J      5.0
+UTA        Rojas Ayala, B         3.0
