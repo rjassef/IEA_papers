@@ -2,8 +2,8 @@ USACH      El Mellah, I           3.0
 USACH      Espinoza, C            4.0
 USACH      Perez, S               6.0
 USACH      Rojas-Arriagada, A     0.0
-UCH        Blanc, G               7.0
-UCH        Bronfman, L           15.5
+UCH        Blanc, G               8.0
+UCH        Bronfman, L           16.5
 UCH        Campusano, L           0.0
 UCH        Casassus, S            2.0
 UCH        Costa, E               1.5
@@ -17,30 +17,30 @@ UCH        Max Moerbeck, W        6.0
 UCH        Maza, J                0.0
 UCH        Mendez, R              1.5
 UCH        Munoz, R               3.0
-UCH        Perez, L               4.0
+UCH        Perez, L               5.0
 UCH        Rojo, P                0.0
-UCH        Rubio, M               9.0
+UCH        Rubio, M              10.0
 UCH        Ruiz, M                0.5
-UDP        Aravena, M            14.7
-UDP        Assef, R               8.7
+UDP        Aravena, M            15.7
+UDP        Assef, R               9.2
 UDP        Cieza, L               5.5
 UDP        Jenkins, J            11.0
 UDP        Johnston, E            8.8
 UDP        Jofre, P               9.0
 UDP        Mazzucchelli, C       14.3
 UDP        Prieto, J              4.0
-UDP        Ricci, C              35.5
+UDP        Ricci, C              37.0
 UDP        Yang, B                3.0
 UDP        Zurlo, A              14.5
 PUC        Aguilera Gomez, C      3.3
 PUC        Barrientos, L          3.0
-PUC        Bauer, F              19.5
-PUC        Catelan, M             9.3
+PUC        Bauer, F              20.5
+PUC        Catelan, M            10.3
 PUC        Chaname, J             0.5
 PUC        Clocchiatti, A         4.0
 PUC        Dunner, R              5.0
 PUC        Galaz, G               4.3
-PUC        Guzman, V              8.3
+PUC        Guzman, V             10.3
 PUC        Petrovich, C           3.0
 PUC        Puzia, T               3.3
 PUC        Tissera, P             4.2
@@ -56,7 +56,7 @@ UNAB       Masetti, N             1.2
 UNAB       Minniti, D            20.2
 UNAB       Monaco, L              8.0
 UNAB       Nantais, J             2.5
-UNAB       Ohnaka, K              2.0
+UNAB       Ohnaka, K              3.0
 UAI        Benitez Llambay, P     3.0
 UAI        Brahm, R              11.0
 UAI        Cuadra, J              7.0
@@ -65,5 +65,5 @@ UAI        Mulders, G             3.0
 UAI        Munoz, D               0.0
 UTA        Boquien, M             6.0
 UTA        Carballo Bello, J      5.5
-UTA        Pignata, G             9.5
+UTA        Pignata, G            10.5
 UTA        Rojas Ayala, B         2.0
